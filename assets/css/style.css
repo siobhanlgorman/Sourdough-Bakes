@@ -25,7 +25,8 @@ h1, h2 {
 
 #logo {
     float: left;
-    size: 100%;
+    font-size: 150%;
+    color: green;
 
 }
 
@@ -38,8 +39,23 @@ h1, h2 {
 
 }
 
+#menu, #logo {
+    line-height: 75px;
+}
+
 #menu li {
     float: left;
     list-style-type: none;
     margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+#menu a:hover {
+    border-bottom: 1px solid rgba(0, 128, 49, 0.5);
+    background-color: rgba(0, 128, 49, 0.5);
 }
