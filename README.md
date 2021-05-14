@@ -1,59 +1,105 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Milestone 1 Project: Sourdough Bakes
 
-Welcome siobhanlgorman,
+[](link to live website)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Pictures to showcase
 
-## Gitpod Reminders
+# Introduction
+This is a website for a new bakery in Ennis, Co. Clare which specialises in baked goods made by the sourdough method. There are two ranges available bread and sweet bakes. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients, are freshly baked daily and are healthier than mass-produced processed baked goods.
 
-`python3 -m http.server`
+# UX
 
-A blue button should appear to click: _Make Public_,
+## Website Owner Business Goals
+As the site owner of this bakery I want
 
-Another blue button should appear to click: _Open Browser_.
+* to deliver clear and easy to read information about my produce
+* to encourage customers to visit the bakery to buy produce and offer them the opportunity to order for collection
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## User Goals
+As a user I want to
 
-A blue button should appear to click: _Make Public_,
+  * easily and intuitively navigate throughout the website
+  * easily navigate between pages and return to home screen with one click
+  * be able to view the website and read all information on all screen sizes
+  * view clear images
 
-Another blue button should appear to click: _Open Browser_.
+## User Stories
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### As a business owner
+As the website and business owner I want to
+  * create an online presence for our business
+  * grow our local customer base
+  * inform prospective customers about our produce, location, opening hours
+  * keep existing customers up to date with new produce and special events
+I want new and prospective customers to be able to contact us easily with queries
+I want customers to be able to reserve produce online for collection and payment instore
+I want to provide some information about what makes our bakes unique (authentic sourdough) 
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### As a general user of the website/customer I want to 
+* find out the location, opening hours and contact information 
+* order some produce for collection
+* find out more about sourdough
+* view all the produce and relevant information about each item
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+### As a new user I want to
+* know what makes this bakery unique
 
-## Updates Since The Instructional Video
+# Structure of the website
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+# Wireframes
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+# Surface
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+## Fonts
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Colours
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Images
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Text
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Existing Features
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+#### Navigation Bar
+* Visible on all pages at top of menu
+* Collapses into burger menu on mobile screen
+* left side of navigation bar features logo with link to home page
+* right side of navigation bar features links to each of the four pages
+* 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+#### Home page
+#### About
+#### Our Bakes
+#### Contact
 
----
+### Future Features
+* payment facility
 
-Happy coding!
+## Languages
+
+## Technologies Used
+
+## Testing
+
+### HTML
+### CSS
+### Responsiveness
+* browsers
+* screens
+
+### User Stories Testing
+
+### Manual Testing
+
+### Deployment
+
+### Bugs
+
+### Credits
+
+
