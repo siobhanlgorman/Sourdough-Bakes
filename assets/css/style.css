@@ -15,12 +15,13 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Poppins, sans-serif;
     text-transform: lowercase;
     letter-spacing: 4px;
     color: #252525;
-    
+
 }
 
 #logo {
@@ -39,7 +40,8 @@ h1, h2 {
 
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -68,8 +70,15 @@ h1, h2 {
 
 /* hero image */
 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/hero-image.jpg) no-repeat center center;
+    background: url(../images/hero-image.jpg) no-repeat center left;
 }
