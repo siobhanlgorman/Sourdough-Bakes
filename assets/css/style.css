@@ -11,7 +11,7 @@ body {
     font-family: Lora, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-    background-color: whitesmoke;
+    background-color: white;
 }
 
 /* headings and logo */
@@ -27,8 +27,8 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 100%;
-    color:#266150;
+    font-size: 150%;
+    color:#8bc34a;
     
 
 }
@@ -63,23 +63,28 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid rgba(0, 128, 49, 0.5);
-    background-color: rgba(0, 128, 49, 0.5);
+    border-bottom: 1px solid #8bc34a;
+    background-color: #8bc34a;
 }
 
 .active {
-    border-bottom: 1px solid rgba(0, 128, 49, 0.5);
+    border-bottom: 1px solid #8bc34a;
 
 
 }
 
-/* hero image */
+/* hero image and cover text*/
 
 #hero-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    position: relative;
+}
 
+#cover-text, #cover-text h2 {
+    color: fafafa;
+    
 }
 
 #hero-image {
@@ -107,6 +112,25 @@ animation-fill-mode: forwards;
         transform: scale(1.1);
     }
 
-
 }
+
+#cover-text {
+    font-size: 100%;
+    font-family: Poppins, sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 300px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: #8bc34a;
+
+    bottom: 100px;
+    right: 150px;
+
+    position: absolute;
 }
