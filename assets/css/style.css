@@ -11,6 +11,7 @@ body {
     font-family: Lora, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    background-color: whitesmoke;
 }
 
 /* headings and logo */
@@ -27,7 +28,8 @@ h2 {
 #logo {
     float: left;
     font-size: 100%;
-    color: green;
+    color:#266150;
+    
 
 }
 
@@ -37,12 +39,14 @@ h2 {
     font-size: 110%;
     letter-spacing: 4px;
     float: right;
+    
 
 }
 
 #menu,
 #logo {
     line-height: 75px;
+    
 
 }
 
@@ -89,7 +93,6 @@ h2 {
 animation-name: hero-zoom;
 animation-duration: 10s;
 animation-fill-mode: forwards;
-
 
 }
 
