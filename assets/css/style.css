@@ -29,6 +29,7 @@ h2 {
     float: left;
     font-size: 150%;
     color:#8bc34a;
+    margin-left: 30px;
     
 
 }
@@ -46,7 +47,6 @@ h2 {
 #menu,
 #logo {
     line-height: 75px;
-    
 
 }
 
@@ -127,7 +127,7 @@ animation-fill-mode: forwards;
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: #8bc34a;
+    background-color: rgb(139, 195, 74);
 
     bottom: 100px;
     right: 150px;
