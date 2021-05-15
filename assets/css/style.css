@@ -134,3 +134,35 @@ animation-fill-mode: forwards;
 
     position: absolute;
 }
+
+/* welcome section */
+
+#welcome-text {
+    height: 300px;
+    width: 300px;
+    border-style: none;
+    text-align: center;
+    
+}
+
+
+
+
+
+/* snapshot section */
+#snapshot {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
