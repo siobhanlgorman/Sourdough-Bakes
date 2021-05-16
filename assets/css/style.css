@@ -143,7 +143,7 @@ animation-fill-mode: forwards;
 #welcome-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
-    text-transform: lowercase;
+   
     letter-spacing: 4px;
     text-align: center;
 
@@ -159,6 +159,10 @@ animation-fill-mode: forwards;
     background-color: none;
 
     position: relative;
+
+    border: solid;
+
+    box-shadow: #8bc34a;
 }
     
 
