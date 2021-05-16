@@ -28,7 +28,7 @@ h3 {
 #logo {
     float: left;
     font-size: 150%;
-    color:#5b8030;
+    color: #5b8030;
     margin-left: 30px;
     text-transform: lowercase;
 
@@ -40,7 +40,7 @@ h3 {
     font-size: 100%;
     letter-spacing: 4px;
     float: right;
-    
+
 
 }
 
@@ -84,7 +84,7 @@ h3 {
 #cover-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
-   
+
     letter-spacing: 4px;
     text-align: center;
 
@@ -100,12 +100,13 @@ h3 {
     right: 550px;
 
     position: absolute;
-   
+
 }
 
-#cover-text h2, h3 {
+#cover-text h2,
+h3 {
     color: fafafa;
-    
+
 }
 
 
@@ -116,11 +117,11 @@ h3 {
     background: url(../images/hero-image1.jpg) no-repeat center left;
 
 
-/* animates zoom on loading page */
+    /* animates zoom on loading page */
 
-animation-name: hero-zoom;
-animation-duration: 10s;
-animation-fill-mode: forwards;
+    animation-name: hero-zoom;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
 
 }
 
@@ -143,7 +144,7 @@ animation-fill-mode: forwards;
 #welcome-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
-   
+
     letter-spacing: 4px;
     text-align: center;
 
@@ -152,7 +153,7 @@ animation-fill-mode: forwards;
 
     margin-left: auto;
     margin-right: auto;
-    
+
 
     padding-top: 40px;
     padding-left: 10px;
@@ -166,18 +167,19 @@ animation-fill-mode: forwards;
     border: 2px solid #8bc34a;
     border-radius: 20px;
 
-    
+
 }
-    
-#welcome-text h3, h4 {
+
+#welcome-text h3,
+h4 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
 #review-text {
-font-size: 100%;
+    font-size: 100%;
     font-family: Poppins, sans-serif;
-   
+
     letter-spacing: 4px;
     text-align: center;
 
@@ -186,7 +188,7 @@ font-size: 100%;
 
     margin-left: auto;
     margin-right: auto;
-    
+
 
     padding-top: 40px;
     padding-left: 10px;
@@ -200,14 +202,15 @@ font-size: 100%;
     border: 2px solid #8bc34a;
     border-radius: 20px;
 
-    
+
 }
 
 #review-text h3 {
     font-style: italic;
 }
-    
-#welcome-text h3, h4 {
+
+#welcome-text h3,
+h4 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -215,12 +218,7 @@ font-size: 100%;
 
 
 /* snapshot section */
-/*
-#snapshot {
-    height: 600px;
-    background-color: chartreuse;
-}
-*/
+
 /*
 #left-about {
     
@@ -229,11 +227,9 @@ font-size: 100%;
     background-color: green;
 
 }
-*/
-/*
+
 #right-about {
     
-   
     
     background-color: red;
 }
@@ -243,15 +239,15 @@ font-size: 100%;
     padding-top: 30px;
 
     width: 50%;
-    float: right;
+    float: left;
     line-height: 20px;
-    background-color: blueviolet;
-    vertical-align: middle;
+    text-align: center;
 
-    
-    
-    
-    
+
+
+
+
+
 }
 
 /* snapshot images */
@@ -264,8 +260,8 @@ figure {
     width: 50%;
     display: inline-block;
     clear: both; */
-  
-    
+
+
 /*
 
 figure > img {
