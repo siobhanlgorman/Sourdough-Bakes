@@ -101,9 +101,7 @@ h3 {
 
     position: absolute;
    
-
 }
-
 
 #cover-text h2, h3 {
     color: fafafa;
@@ -164,7 +162,10 @@ animation-fill-mode: forwards;
 }
     
 
-
+#welcome-text > #logo-copy {
+    color:#5b8030;
+    font-size: 150%;
+}
 
 
 
