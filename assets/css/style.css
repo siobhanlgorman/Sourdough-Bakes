@@ -215,27 +215,62 @@ font-size: 100%;
 
 
 /* snapshot section */
+/*
 #snapshot {
     height: 600px;
+    background-color: chartreuse;
 }
-
+*/
+/*
 #left-about {
-    padding-top: 30px;
-    width: 50%;
-    float: left;
+    
+   
+    
     background-color: green;
 
 }
-
+*/
+/*
 #right-about {
-    padding-top: 30px;
-    width: 50%;
-    float: right;
+    
+   
+    
     background-color: red;
 }
+*/
 
-.snapshot-heading {
-    width: 60%;
+.snapshot {
+    padding-top: 30px;
+
+    width: 50%;
     float: right;
     line-height: 20px;
+    background-color: blueviolet;
+    vertical-align: middle;
+
+    
+    
+    
+    
 }
+
+/* snapshot images */
+/* 
+figure {
+    background-color: chartreuse;
+    padding-top: 30px;
+    line-height: 20px;
+    background-color: blueviolet;
+    width: 50%;
+    display: inline-block;
+    clear: both; */
+  
+    
+/*
+
+figure > img {
+    width: 100%;
+    align-items: center;
+    
+}
+*/
