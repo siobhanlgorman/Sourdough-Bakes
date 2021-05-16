@@ -17,9 +17,9 @@ body {
 /* headings and logo */
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: Poppins, sans-serif;
-    
     letter-spacing: 4px;
     color: #252525;
 
@@ -37,7 +37,7 @@ h2 {
 /* navigation links */
 
 #menu {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 4px;
     float: right;
     
@@ -70,7 +70,6 @@ h2 {
 .active {
     border-bottom: 1px solid #8bc34a;
 
-
 }
 
 /* hero image and cover text*/
@@ -82,15 +81,34 @@ h2 {
     position: relative;
 }
 
-#cover-text, #cover-text h2 {
+#cover-text {
+    font-size: 100%;
+    font-family: Poppins, sans-serif;
+   
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 300px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(139, 195, 74, .7);
+
+    bottom: 100px;
+    right: 150px;
+
+    position: absolute;
+}
+
+
+#cover-text h2, h3 {
     color: fafafa;
     
 }
 
-#cover-text>h3 {
-    font-style: italic;
 
-}
 
 #hero-image {
     height: 600px;
@@ -119,26 +137,6 @@ animation-fill-mode: forwards;
 
 }
 
-#cover-text {
-    font-size: 100%;
-    font-family: Poppins, sans-serif;
-   
-    letter-spacing: 4px;
-    text-align: left;
-
-    width: 300px;
-    height: 150px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgb(139, 195, 74);
-
-    bottom: 100px;
-    right: 150px;
-
-    position: absolute;
-}
 
 /* welcome section */
 
