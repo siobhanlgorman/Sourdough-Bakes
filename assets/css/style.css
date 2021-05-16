@@ -160,9 +160,10 @@ animation-fill-mode: forwards;
 
     position: relative;
 
-    border: solid;
+    border-style: solid;
+    border-color: #8bc34a;
 
-    box-shadow: #8bc34a;
+    
 }
     
 
