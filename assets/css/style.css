@@ -147,7 +147,7 @@ animation-fill-mode: forwards;
     letter-spacing: 4px;
     text-align: center;
 
-    width: 30%;
+    width: 50%;
     height: 500px;
 
     margin-left: auto;
@@ -169,12 +169,48 @@ animation-fill-mode: forwards;
     
 }
     
-#welcome-text h3 {
+#welcome-text h3, h4 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
+#review-text {
+font-size: 100%;
+    font-family: Poppins, sans-serif;
+   
+    letter-spacing: 4px;
+    text-align: center;
 
+    width: 50%;
+    height: 100px;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: none;
+
+    position: relative;
+
+
+
+    border: 2px solid #8bc34a;
+    border-radius: 20px;
+
+    
+}
+
+#review-text h3 {
+    font-style: italic;
+}
+    
+#welcome-text h3, h4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 
 
