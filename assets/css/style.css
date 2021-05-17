@@ -265,6 +265,7 @@ h4 {
 /* footer */
 
 footer {
+    display: flex;
 
     height: 150px;
 
@@ -278,11 +279,12 @@ footer {
 #address-block {
     
     width: 20%;
-    float: left;
+    padding-top: 1%;
+    /* float: left;
     margin: 1%;
     padding: 5%;
     text-align: left;
-    font: #5b8030; 
+    font: #5b8030;  */
     /* background-color: purple; */
    
     
@@ -291,6 +293,7 @@ footer {
 }
 
 .social-networks {
+    width: 80%;
     text-align: center;
     background-color: blueviolet;
     
