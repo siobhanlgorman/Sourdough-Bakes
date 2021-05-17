@@ -219,7 +219,7 @@ h4 {
 
 /* snapshot section */
 
-/*
+
 #left-about {
     
    
@@ -233,11 +233,11 @@ h4 {
     
     background-color: red;
 }
-*/
+
 
 .snapshot {
+   
     padding-top: 30px;
-
     width: 50%;
     float: left;
     line-height: 20px;
