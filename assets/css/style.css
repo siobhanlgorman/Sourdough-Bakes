@@ -220,8 +220,6 @@ h4 {
 /* snapshot section */
 
 
-
-
 .snapshot {
     
     float: left;
@@ -249,36 +247,44 @@ h4 {
 /* footer */
 
 footer {
+
     height: 150px;
 
 }
 
-footer > #address-block {
+#address-block h1 {
+    color: 
+}
 
+
+#address-block {
     
     width: 20%;
     float: left;
     margin: 1%;
     padding: 5%;
     text-align: left;
+    font: #5b8030;
+    
     
 
 }
 
 
-footer #logo {
-    
-    font-size: 100%;
+
 
 
 }
 
 .social-networks {
     text-align: center;
+    background-color: blueviolet;
+    
 }
 
-.social-networks>li {
+.social-networks > li {
     display: inline;
+    padding-top: 5%;
 }
 
 .social-networks i {
