@@ -277,6 +277,16 @@ footer {
 
 }
 
+footer > div {
+    width: 20%;
+    float: left;
+    margin: 1%;
+    padding: 5%;
+    text-align: left;
+    
+
+}
+
 .social-networks {
     text-align: center;
 }
