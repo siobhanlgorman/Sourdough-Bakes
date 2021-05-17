@@ -221,22 +221,22 @@ h4 {
 
 
 #left-about {
-    
-   
-    
+
+
+
     background-color: green;
 
 }
 
 #right-about {
-    
-    
+
+
     background-color: red;
 }
 
 
 .snapshot {
-   
+
     padding-top: 30px;
     width: 50%;
     float: left;
@@ -277,13 +277,19 @@ footer {
 
 }
 
-footer > div {
+footer>div {
     width: 20%;
     float: left;
     margin: 1%;
     padding: 5%;
     text-align: left;
-    
+
+}
+
+footer #logo {
+    font-size: 100%;
+    margin: 1%;
+
 
 }
 
@@ -291,7 +297,7 @@ footer > div {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
