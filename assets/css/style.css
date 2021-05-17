@@ -97,7 +97,7 @@ h3 {
     background-color: rgba(139, 195, 74, .7);
 
     top: 150px;
-    right: 550px;
+    right: 500px;
 
     position: absolute;
 
@@ -220,56 +220,32 @@ h4 {
 /* snapshot section */
 
 
-#left-about {
-
-
-
-    background-color: green;
-
-}
-
-#right-about {
-
-
-    background-color: red;
-}
 
 
 .snapshot {
-
-    padding-top: 30px;
-    width: 50%;
+    
     float: left;
-    line-height: 20px;
+    width: 50%;
+    
+    padding-top: 30px;
+
     text-align: center;
-
-
-
-
-
-
+   
 }
 
 /* snapshot images */
-/* 
-figure {
-    background-color: chartreuse;
-    padding-top: 30px;
-    line-height: 20px;
-    background-color: blueviolet;
-    width: 50%;
-    display: inline-block;
-    clear: both; */
 
+.snapshot > img {
+    display: inline;
+    border-radius: 20px;
+    height: 75%;
+    width: 75%;
 
-/*
-
-figure > img {
-    width: 100%;
-    align-items: center;
-    
+ 
 }
-*/
+
+
+
 /* footer */
 
 footer {
@@ -277,18 +253,22 @@ footer {
 
 }
 
-footer>div {
+footer > #address-block {
+
+    
     width: 20%;
     float: left;
     margin: 1%;
     padding: 5%;
     text-align: left;
+    
 
 }
 
+
 footer #logo {
+    
     font-size: 100%;
-    margin: 1%;
 
 
 }
