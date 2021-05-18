@@ -297,6 +297,14 @@ footer {
 
 /* About Us */
 
-. about-text {
-    
+/* . about-text {
+
+} */
+
+#bakery-image {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
 }
+
+#sourdough-image
