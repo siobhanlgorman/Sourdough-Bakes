@@ -359,3 +359,14 @@ article a {
     color: #5b8030;
 }
 
+#our-bakes-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+#loaves-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/loaves.jpg) no-repeat center left;
+}
