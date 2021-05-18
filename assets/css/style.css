@@ -141,7 +141,7 @@ h3 {
 
 /* welcome section */
 
-#welcome-text, #about-us-text {
+#welcome-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
@@ -249,6 +249,7 @@ footer {
     height: 150px;
     padding-top: 15px;
     margin-top: 10px;
+    margin-left: 10px;
    
 
 }
@@ -310,10 +311,33 @@ footer {
     background: url(../images/bakery.jpg) no-repeat center left;
 }
 
-#about-us-text {
-    background-color: red;
+/* #about-us-text, #about-sourdough-text {
+   
+    
 
-}
+    letter-spacing: 4px;
+   
+    width: 50%;
+    height: 400px;
+
+    
+
+
+    
+
+    
+
+    position: relative;} */
+
+
+
+    /* border: 2px;
+    border-radius: 20px; */
+
+/* #about-us-text h3,
+h4 {
+    
+} */
 
 
 /* About Sourdough */
@@ -332,7 +356,20 @@ footer {
 }
 
 
-#about-sourdough-text {
+.about-text {
     background-color: red;
+    font-size: 100%;
+    font-family: Poppins, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-left: 10px;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
+}
+
+.about-text h3, h4 {
+    text-align: center;
 }
