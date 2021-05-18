@@ -164,7 +164,7 @@ h3 {
 
 
 
-    border: 2px solid #8bc34a;
+    border: 2px;
     border-radius: 20px;
 
 
@@ -199,7 +199,7 @@ h4 {
 
 
 
-    border: 2px solid #8bc34a;
+    border: 2px;
     border-radius: 20px;
 
 
@@ -224,43 +224,23 @@ h4 {
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
     justify-content: center;
-    
+
     text-align: center;
-    background-color: yellow;
-    
+    padding-bottom: 25px;
+   
+
 }
-   
 
-
-/* .snapshot { */
-    
-    /* float: left; */
-    /* width: 50%; */
-    /* height: 300px; */
-    /* display: inline-block; */
-    
-    /* padding-top: 30px;
-
-    text-align: center; */
-    
-   
-/* } */
 
 /* snapshot images */
 
-.snapshot > img {
-    /* display: inline; */
+.snapshot>img {
+
     border-radius: 20px;
     text-align: center;
-    /* margin: 1px 1px 1px 1px; */
-    
-    /* height: 75%;
-    width: 75%; */
 
- 
+
 }
-
-
 
 /* footer */
 
@@ -268,26 +248,23 @@ footer {
     display: flex;
 
     height: 150px;
+    padding-top: 15px;
+    margin-top: 10px;
+   
 
 }
 
-#address-block > h1 {
-    color: blue;
-}
+
 
 
 #address-block {
-    
-    width: 20%;
-        padding-top: 1%;}
-    /* float: left;
-    margin: 1%;
-    padding: 5%;
-    text-align: left;
-    font: #5b8030;  */
-    /* background-color: purple; */
 
-#address-block > a {
+    width: 20%;
+    padding-top: 15px;
+}
+
+
+#address-block>a {
     text-decoration: none;
 }
 
@@ -295,24 +272,21 @@ footer {
     color: #5b8030;
 
 }
- 
-    
-    
-    
 
 
+/*social media icons*/
 
 .social-networks {
     width: 80%;
     text-align: center;
-    background-color: blueviolet;
     
+
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
     padding-top: 5%;
-    background-color: red;
+    
 }
 
 .social-networks i {
