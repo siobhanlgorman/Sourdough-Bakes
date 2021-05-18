@@ -328,6 +328,10 @@ footer {
     position: relative;
 }
 
+article a {
+    text-decoration: none;
+}
+
 
 .about-text {
     
