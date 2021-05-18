@@ -287,6 +287,10 @@ footer {
     font: #5b8030;  */
     /* background-color: purple; */
 
+#address-block > a {
+    text-decoration: none;
+}
+
 #footer_logo {
     color: #5b8030;
 
