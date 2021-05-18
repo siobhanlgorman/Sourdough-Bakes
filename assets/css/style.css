@@ -239,7 +239,6 @@ h4 {
     border-radius: 20px;
     text-align: center;
 
-
 }
 
 /* footer */
@@ -294,4 +293,10 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/* About Us */
+
+. about-text {
+    
 }
