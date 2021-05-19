@@ -141,11 +141,11 @@ h3 {
 
 /* welcome section */
 /* flexbox?*/
-.welcome {
+/* #welcome {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+} */
 /* flexbox end */
 #welcome-text,
 #review-text {
@@ -228,17 +228,20 @@ h4 {
 /* snapshot section */
 
 #snapshot_section {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+    display: flex;
+    flex-direction: row;
+   
     justify-content: center;
 
     text-align: center;
-    padding-bottom: 25px;
+    /* padding-bottom: 25px; */
 
 
 }
+.snapshot {
+    margin: 4%;
 
+}
 
 /* snapshot images */
 
@@ -456,3 +459,23 @@ h4 {
     size: 100%;
 
 }
+
+/* media queries */
+
+@media screen and (max-width: 1200px)
+{
+    /* #welcome {
+    padding: 30px 0;  
+    } */
+
+    #snapshot_section {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
+
+
+} 
+    
