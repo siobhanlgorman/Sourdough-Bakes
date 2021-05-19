@@ -297,7 +297,9 @@ footer {
     color: #3a3a3a;
 }
 
-/* About Us */
+
+/* About page*/
+/* About Us section */
 
 
 #about-us-outer {
@@ -313,7 +315,7 @@ footer {
 }
 
 
-/* About Sourdough */
+/* About Sourdough section*/
 
 #sourdough-image {
     height: 600px;
@@ -381,4 +383,28 @@ article a {
     height: 600px;
     width: 100%;
     background: url(../images/dough.jpg) no-repeat center left;
+}
+
+
+/* Our Bakes page */
+
+.our_bakes1 img {
+
+    border-radius: 20px;
+    text-align: center;
+    /* padding: 3%; */
+
+}
+
+.our_products {
+    display: flex;
+
+}
+
+.our_bakes1 {
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 2px;
+    clear: both;
 }
