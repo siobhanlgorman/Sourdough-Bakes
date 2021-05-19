@@ -20,7 +20,7 @@ h1,
 h2,
 h3 {
     font-family: Poppins, sans-serif;
-    letter-spacing: 4px;
+    /* letter-spacing: 4px; */
     color: #252525;
 
 }
@@ -145,7 +145,7 @@ h3 {
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
-    letter-spacing: 4px;
+    /* letter-spacing: 4px; */
     text-align: center;
 
     width: 50%;
