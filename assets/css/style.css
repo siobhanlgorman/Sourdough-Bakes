@@ -140,7 +140,13 @@ h3 {
 
 
 /* welcome section */
-
+/* flexbox?*/
+.welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* flexbox end */
 #welcome-text,
 #review-text {
     font-size: 100%;
