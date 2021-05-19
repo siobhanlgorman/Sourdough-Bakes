@@ -141,7 +141,8 @@ h3 {
 
 /* welcome section */
 
-#welcome-text, #review-text {
+#welcome-text,
+#review-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
@@ -228,7 +229,7 @@ h4 {
 
     text-align: center;
     padding-bottom: 25px;
-   
+
 
 }
 
@@ -251,7 +252,7 @@ footer {
     padding-top: 15px;
     margin-top: 10px;
     margin-left: 10px;
-   
+
 
 }
 
@@ -280,14 +281,14 @@ footer {
 .social-networks {
     width: 80%;
     text-align: center;
-    
+
 
 }
 
 .social-networks>li {
     display: inline;
     padding-top: 5%;
-    
+
 }
 
 .social-networks i {
@@ -308,6 +309,7 @@ footer {
     overflow: hidden;
     position: relative;
 }
+
 #bakery-image {
     height: 600px;
     width: 100%;
@@ -336,7 +338,7 @@ article a {
 
 
 .about-text {
-    
+
     width: 75%;
     font-size: 100%;
     font-family: Poppins, sans-serif;
@@ -350,7 +352,9 @@ article a {
 
 }
 
-.about-text h2, h3, h4 {
+.about-text h2,
+h3,
+h4 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -367,6 +371,7 @@ article a {
     overflow: hidden;
     position: relative;
 }
+
 #loaves-image {
     height: 600px;
     width: 100%;
@@ -379,6 +384,7 @@ article a {
     overflow: hidden;
     position: relative;
 }
+
 #dough-image {
     height: 600px;
     width: 100%;
@@ -388,7 +394,14 @@ article a {
 
 /* Our Bakes page */
 
-.our_bakes1 img {
+#our_bread_text {
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.our_bakes1>img {
 
     border-radius: 20px;
     text-align: center;
@@ -398,13 +411,42 @@ article a {
 
 .our_products {
     display: flex;
+    flex-direction: row;
+
+}
+
+.our_products2 {
+    display: flex;
+    flex-direction: row;
 
 }
 
 .our_bakes1 {
-    justify-content: space-between;
+    
+    justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 2px;
-    clear: both;
+    padding: 2%;
+    /* clear: both; */
+    width: 33%;
+
+}
+
+.our_bakes2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    /* clear: both; */
+    width: 33%;
+
+}
+
+.our_bakes2>img {
+
+    border-radius: 20px;
+    text-align: center;
+    /* padding: 3%; */
+    size: 100%;
+
 }
