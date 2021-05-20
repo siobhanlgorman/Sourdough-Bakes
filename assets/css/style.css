@@ -453,6 +453,8 @@ h4 {
 .our_products {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
 
 }
 
