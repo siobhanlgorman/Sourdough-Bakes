@@ -463,26 +463,26 @@ h4 {
 }
 
 /* Form */
-/*
+
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
-    background-size: cover;
-    background-position: center;
+    /* background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg"); */
+    /* background-size: cover;
+    background-position: center; */
     height: 900px;
 }
-.signup-form {
+.contact_us_form {
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(139, 195, 74, .7);
     max-width: 400px;
     position: absolute;
     left: 10%;
     padding: 30px;
 }
 
-.signup-form > h2 {
-    color: #fafafa;
+.contact_us_form > h2 {
+    color: #5b8030;
     margin-bottom: 20px;
     
 }
