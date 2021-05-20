@@ -147,12 +147,12 @@ h3 {
     align-items: center;
 } */
 /* flexbox end */
-#welcome-text,
-#review-text {
+#welcome-text
+{
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
-    /* letter-spacing: 4px; */
+    
     text-align: center;
 
     width: 50%;
@@ -160,6 +160,7 @@ h3 {
 
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
 
 
     padding-top: 40px;
@@ -181,18 +182,19 @@ h3 {
 h4 {
     padding-top: 20px;
     padding-bottom: 20px;
+    background-color: blue;
 }
 
 
 #review-text {
-    /* font-size: 100%;
+    font-size: 100%;
     font-family: Poppins, sans-serif;
 
     letter-spacing: 4px;
     text-align: center;
 
     width: 50%;
-    height: 100px;
+    height: 200px;
 
     margin-left: auto;
     margin-right: auto;
@@ -204,11 +206,11 @@ h4 {
     background-color: none;
 
     position: relative;
- */
 
 
-    border: 2px;
-    border-radius: 20px;
+
+    
+    background-color: red;
 
 
 }
@@ -255,16 +257,16 @@ h4 {
     text-decoration: none;
 }
 
-#vew_link h3{
+#view_link h3{
     color: #5b8030;
     }
-}
+
 
 /* footer */
 
 footer {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
 
     height: 150px;
     padding-top: 15px;
@@ -524,7 +526,7 @@ h4 {
     display: block;
     
 }
-
+e
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
