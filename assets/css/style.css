@@ -433,7 +433,7 @@ h4 {
 
 /* Our Bakes page */
 
-#our_bread_text {
+#our_bread_text, #our_sweet_text {
     text-align: center;
     margin: 1%;
     padding: 1%;
