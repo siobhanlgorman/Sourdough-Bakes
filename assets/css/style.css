@@ -455,6 +455,7 @@ h4 {
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
+    justify-content: center;
 
 }
 
@@ -502,10 +503,16 @@ h4 {
 
     border-radius: 20px;
     text-align: center;
-    /* padding: 3%; */
-    size: 100%;
+    width: 100%;
+    height: auto;
 
 }
+#contact_us_link h3 {
+    color: #5b8030;
+}
+
+
+
 
 /* Form */
 
