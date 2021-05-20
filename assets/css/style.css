@@ -94,6 +94,7 @@ h3 {
     
     text-align: center;
 
+    align-content: center;
     width: 300px;
     height: 150px;
 
@@ -102,10 +103,11 @@ h3 {
 
     background-color: rgba(139, 195, 74, .7);
 
-    top: 150px;
-    right: 500px;
+    bottom: 100px;
+    right: 30px;
 
     position: absolute;
+    
 
 }
 
@@ -338,6 +340,11 @@ footer {
     overflow: hidden;
     position: relative;
 }
+
+
+/* #about-us {
+    justify-content: center;
+} */
 
 #bakery-image {
     height: 600px;
