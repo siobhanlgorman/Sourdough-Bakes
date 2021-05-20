@@ -517,21 +517,31 @@ h4 {
 /* Form */
 
 .form-section {
-    clear: left;
-    /* background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg"); */
+    /* clear: both; */
+    
     /* background-size: cover;*/
     background-position: center;
     height: 900px;
 }
+
 .contact_us_form {
-    margin: 150px 10% 0 0;
-    color: #fff;
     background-color: rgba(139, 195, 74, .7);
+    margin: 20%;
     max-width: 400px;
+}
+
+.contact_us_form h3 {
+    text-align: left;
+}
+/*  {
+    
+    color: #fff;
+    
+    
     position: absolute;
     left: 10%;
     padding: 30px;
-}
+} */
 
 .contact_us_form > h2 {
     color: #5b8030;
