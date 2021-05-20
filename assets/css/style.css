@@ -459,11 +459,11 @@ h4 {
 }
 
 
-.our_products2 {
+/* .our_products2 {
     display: flex;
     flex-direction: row;
 
-}
+} */
 
 .our_bakes1 {
     
@@ -476,7 +476,19 @@ h4 {
 
 }
 
-.our_bakes2 {
+
+.our_sweet_bakes>img {
+
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    /* padding: 3%; */
+
+}
+
+
+.our_sweet_bakes {
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -486,7 +498,7 @@ h4 {
 
 }
 
-.our_bakes2>img {
+.our_sweet_bakes>img {
 
     border-radius: 20px;
     text-align: center;
