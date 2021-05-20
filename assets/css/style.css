@@ -245,7 +245,20 @@ h4 {
 
 /* snapshot images */
 
-.snapshot>img {border-radius: 20px;text-align: center;max-width: 100%;height: auto;}
+.snapshot>img {
+    border-radius: 20px;
+    text-align: center; 
+    max-width: 100%; 
+    height: auto;}
+
+#view_link a {
+    text-decoration: none;
+}
+
+#vew_link h3{
+    color: #5b8030;
+    }
+}
 
 /* footer */
 
