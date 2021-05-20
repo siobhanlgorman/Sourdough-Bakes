@@ -444,6 +444,8 @@ h4 {
 
     border-radius: 20px;
     text-align: center;
+    width: 100%;
+    height: auto;
     /* padding: 3%; */
 
 }
@@ -453,6 +455,7 @@ h4 {
     flex-direction: row;
 
 }
+
 
 .our_products2 {
     display: flex;
@@ -464,7 +467,7 @@ h4 {
     
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
     padding: 2%;
     /* clear: both; */
     width: 33%;
@@ -592,6 +595,17 @@ e
     #menu {
         margin-right: 30px;
         margin-left: 0;
+    }
+
+    .our_products {
+        display: flex;
+        flex-direction: column;
+        /* text-align: right; */
+        align-items: center;
+    }
+
+    .our_bakes1 {
+        width: auto;
     }
         
 } 
