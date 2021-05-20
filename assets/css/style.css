@@ -38,7 +38,7 @@ h3 {
 
 #menu {
     font-size: 100%;
-    letter-spacing: 4px;
+    /* letter-spacing: 4px; */
     float: right;
 
 
@@ -245,19 +245,13 @@ h4 {
 
 /* snapshot images */
 
-.snapshot>img {
-
-    border-radius: 20px;
-    text-align: center;
-    width: 100%;
-    height: auto;
-
-}
+.snapshot>img {border-radius: 20px;text-align: center;max-width: 100%;height: auto;}
 
 /* footer */
 
 footer {
     display: flex;
+    /* flex-direction: column; */
 
     height: 150px;
     padding-top: 15px;
@@ -467,8 +461,8 @@ h4 {
 .form-section {
     clear: left;
     /* background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg"); */
-    /* background-size: cover;
-    background-position: center; */
+    /* background-size: cover;*/
+    background-position: center;
     height: 900px;
 }
 .contact_us_form {
@@ -522,29 +516,22 @@ h4 {
     background-color: #fafafa;
     color: #f16c6b;
 }
-*/
 
-
-/* media queries */
-
-@media screen and (max-width: 1200px)
-{
-    /* #welcome {
-    padding: 30px 0;  
-    } */
-
-    #snapshot_section {
-        display: flex;
-        flex-direction: column;
-    }
-    .snapshot>img {
-        width: 50%;
-        height: 50%;
-    }
-
-
-
-
-
+@media screen and (max-width: 1200px)	
+{	
+    /* #welcome {	
+    padding: 30px 0;  	
+    } */	
+    #snapshot_section {	
+        display: flex;	
+        flex-direction: column;	
+    }	
+    .snapshot>img {	
+        width: 50%;	
+        height: 50%;	
+    }	
 } 
+
+
     
+
