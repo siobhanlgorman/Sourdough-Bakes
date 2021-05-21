@@ -14,6 +14,8 @@ body {
     background-color: white;
 }
 
+
+
 /* headings and logo */
 
 h1,
@@ -381,15 +383,20 @@ article a {
 
     width: 75%;
     font-size: 100%;
+    text-align: justify;
     font-family: Poppins, sans-serif;
     margin-left: auto;
     margin-right: auto;
     padding-top: 40px;
     padding-left: 10px;
-    text-align: justify;
+    text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 
+}
+
+.about-text p {
+    margin: 1em;
 }
 
 .about-text h2,
