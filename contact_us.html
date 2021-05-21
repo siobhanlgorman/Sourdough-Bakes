@@ -46,26 +46,34 @@
         </div>
 
     </section>
-    
+
     <section class="form_section">
-        
-        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact_us_form">
-            <h3>If you would like to reserve any of our bakes for collection or have any other queries please contact
-                us:</h3>
-            <label for="name">Name</label>
-            <input id="name" type="text" class="text-input" required>
 
-            <label for="email">Email</label>
-            <input type="text" id="email" name="email_address" class="text-input" required>
+        <fieldset>
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact_us_form">
+                <h3>If you would like to reserve any of our bakes for collection or have any other queries please
+                    contact
+                    us:</h3>
+                <label for="name">Name</label>
+                
+                <input id="name" type="text" class="text-input" required>
 
-            <label for="your_message">Your message</label>
-            <input type="text" class="text-input" id="message" name="your_message" required>
+                <label for="email">Email</label>
+            
+                <input type="text" id="email" name="email_address" class="text-input" required>
 
-           <input type="submit" class="submit-button" value="Send">
+                <label for="message">Your Message</label>
+               
+                
+                <textarea id="message" name="message" placeholder="Write your message here" required ></textarea>
+
+                
+                <input type="submit" class="submit-button" value="Send">
 
 
 
-        </form>
+            </form>
+        </fieldset>
 
     </section>
 

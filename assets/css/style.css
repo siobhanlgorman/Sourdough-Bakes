@@ -546,7 +546,19 @@ h4 {
 
 .contact_us_form > h3 {
     text-align: left;
+    margin-left: 10px;
     
+}
+
+.contact_us_form > label {
+    margin-left: 10px;
+}
+
+.contact_us_form > textarea {
+    margin-left: 75px;
+    width: 50%;
+    height: 200px;
+
 }
 
 .submit-button {
@@ -584,11 +596,11 @@ h4 {
 .text-input {
     /* background: red; */
     color: #fafafa;
-    width: 100%;
+    width: 90%;
     height: 35px;
-    margin: 20px 0 20px 0;
+    margin: 20px 10px 20px 10px;
 
-    border: 1px solid #fafafa;
+    /* border: 1px solid #5b8030; */
     border-radius: 2px;    
   
     
