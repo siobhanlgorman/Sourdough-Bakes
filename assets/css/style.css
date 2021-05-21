@@ -641,7 +641,7 @@ e
         align-items: center;
     }
 
-    .our_bakes1 {
+    .our_bakes1, .our_sweet_bakes {
         width: auto;
     }
 
