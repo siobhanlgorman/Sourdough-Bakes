@@ -103,3 +103,18 @@ I want to provide some information about what makes our bakes unique (authentic 
 ### Credits
 
 
+photos granary.jpg from Alexa (Pixabay), 
+five seed seeded rustic from Couleur (Pixabay)
+rye
+mill Mark Croemers
+blueberry Sofia Livaren
+banana Martina Rogusci
+chocolate Kevin Petit
+cinnamon Otto Norin
+carrot Varan Kilkarni
+
+flexbox approach various sources
+
+form adapted from https://www.w3schools.com/howto/howto_css_contact_form.asp
+
+

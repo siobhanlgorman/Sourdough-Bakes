@@ -41,7 +41,6 @@ h3 {
 #menu {
     display: flex;
     font-size: 2.5vh;
-    /* letter-spacing: 4px; */
     float: right;
     margin-left: 30px;
 
@@ -69,7 +68,7 @@ h3 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #8bc34a;
+    border-bottom: 1px solid #3a3a3a;
     background-color: #8bc34a;
 }
 
@@ -83,8 +82,8 @@ h3 {
 #hero-outer {
     height: 600px;
     width: 100%;
-    /* overflow: hidden; */
-    overflow-x: hidden;
+    overflow: hidden;
+    /* overflow-x: hidden; */
     position: relative;
     /* text-align: center; */
 }
@@ -115,7 +114,7 @@ h3 {
 
 #cover-text h2,
 h3 {
-    color: #fafafa;
+    color: #3a3a3a;
 
 }
 
@@ -124,7 +123,7 @@ h3 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/hero-image1.jpg) no-repeat center left;
+    background: url(../images/hero-image1.jpg) no-repeat center center;
 
 
     /* animates zoom on loading page */
@@ -199,7 +198,7 @@ h4 {
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
-    /* letter-spacing: 4px; */
+    
     text-align: center;
 
     width: 50%;
@@ -355,7 +354,7 @@ footer {
 #bakery-image {
     height: 600px;
     width: 100%;
-    background: url(../images/bakery.jpg) no-repeat center left;
+    background: url(../images/bakery.jpg) no-repeat center center;
 }
 
 
@@ -422,21 +421,12 @@ h4 {
 #loaves-image {
     height: 600px;
     width: 100%;
-    background: url(../images/loaves.jpg) no-repeat center left;
+    background: url(../images/loaves.jpg) no-repeat center center;
 }
 
-#contact-us-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
 
-#dough-image {
-    height: 600px;
-    width: 100%;
-    background: url(../images/dough.jpg) no-repeat center left;
-}
+
+
 
 
 /* Our Bakes page */
@@ -523,6 +513,21 @@ h4 {
 #contact_us_link a {
     color: #5b8030;
     text-decoration: none;
+}
+
+/*Contact Us page*/
+
+#contact-us-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#dough-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/dough.jpg) no-repeat center center;
 }
 
 
