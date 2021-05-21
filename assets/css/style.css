@@ -296,7 +296,7 @@ footer {
     padding-top: 15px;
     text-align: center;
     margin: auto;
-    font-size: 50%;
+    font-size: 75%;
 }
 
 
@@ -638,7 +638,10 @@ e
     .our_bakes1 {
         width: auto;
     }
-        
+
+    #address-block {
+        font-size: 50%;
+    }        
 } 
 
 
