@@ -532,20 +532,39 @@ h4 {
 .form-section {
     /* clear: both; */
     
-    /* background-size: cover;*/
+    background-size: cover;
     background-position: center;
     height: 900px;
+    
 }
 
 .contact_us_form {
     background-color: rgba(139, 195, 74, .7);
     margin: 20%;
-    max-width: 400px;
+    max-width: 800px;
 }
 
-.contact_us_form h3 {
+.contact_us_form > h3 {
     text-align: left;
+    
 }
+
+.submit-button {
+    /* margin-top: 20px; */
+    margin: auto;
+    /* border-radius: 2px; */
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: green;
+    color: #fafafa;
+    display: block;
+}
+
+.text-input:hover {
+    border-color: yellowgreen;
+}
+
 /*  {
     
     color: #fff;
@@ -563,16 +582,15 @@ h4 {
 }
 
 .text-input {
-    background: red;
+    /* background: red; */
     color: #fafafa;
     width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
+    height: 35px;
+    margin: 20px 0 20px 0;
 
     border: 1px solid #fafafa;
-    border-radius: 2px;
-    
-    
+    border-radius: 2px;    
+  
     
 }
 
