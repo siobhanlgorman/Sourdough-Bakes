@@ -441,6 +441,15 @@ h4 {
 
 }
 
+/* .our_products img {
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+
+} */
+
+
 .our_bakes1>img {
 
     border-radius: 20px;
@@ -500,12 +509,7 @@ h4 {
 
 }
 
-.our_sweet_bakes>img {
 
-    border-radius: 20px;
-    text-align: center;
-    width: 100%;
-    height: auto;
 
 }
 #contact_us_link h3 {
