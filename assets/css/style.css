@@ -160,7 +160,7 @@ h3 {
 #welcome-text
 {
     font-size: 100%;
-    font-family: Poppins, sans-serif;
+    /* font-family: Poppins, sans-serif; */
 
     
     text-align: center;
@@ -384,7 +384,7 @@ article a {
     width: 75%;
     font-size: 100%;
     text-align: justify;
-    font-family: Poppins, sans-serif;
+    /* font-family: Poppins, sans-serif; */
     margin-left: auto;
     margin-right: auto;
     padding-top: 40px;
