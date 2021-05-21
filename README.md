@@ -113,6 +113,8 @@ chocolate Kevin Petit
 cinnamon Otto Norin
 carrot Varan Kilkarni
 
+hero-image and zoom effect from love running walkthrough project
+
 flexbox approach various sources
 
 form adapted from https://www.w3schools.com/howto/howto_css_contact_form.asp

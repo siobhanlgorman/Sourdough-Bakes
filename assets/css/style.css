@@ -439,13 +439,6 @@ h4 {
 
 }
 
-/* .our_products img {
-    border-radius: 20px;
-    text-align: center;
-    width: 100%;
-    height: auto;
-
-} */
 
 
 .our_bakes1>img {
@@ -454,7 +447,7 @@ h4 {
     text-align: center;
     width: 100%;
     height: auto;
-    /* padding: 3%; */
+    
 
 }
 
@@ -468,11 +461,7 @@ h4 {
 }
 
 
-/* .our_products2 {
-    display: flex;
-    flex-direction: row;
 
-} */
 
 .our_bakes1 {
 
@@ -480,7 +469,7 @@ h4 {
     align-items: center;
     text-align: center;
     padding: 2%;
-    /* clear: both; */
+   
     width: 33%;
 
 }
@@ -502,12 +491,10 @@ h4 {
     align-items: center;
     text-align: center;
     padding: 2%;
-    /* clear: both; */
+    
     width: 33%;
 
 }
-
-
 
 
 #contact_us_link a {
@@ -530,28 +517,27 @@ h4 {
     background: url(../images/dough.jpg) no-repeat center center;
 }
 
+/* Form */
 
-/* Style inputs with type="text", select elements and textareas */
-/* input[type=text]*/
+
 .text-input,
 textarea {
     width: 100%;
-    /* Full width */
+   
     padding: 12px;
-    /* Some padding */
+   
     border: 1px solid #ccc;
-    /* Gray border */
+   
     border-radius: 4px;
-    /* Rounded borders */
+   
     box-sizing: border-box;
-    /* Make sure that padding and width stays in place */
+   
     margin-top: 6px;
-    /* Add a top margin */
+   
     margin-bottom: 16px;
-    /* Bottom margin */
+   
     resize: vertical
-        /* Allow the user to vertically resize the textarea (not horizontally) */
-
+    
 }
 
 /* Style the submit button with a specific background color etc */
@@ -574,19 +560,15 @@ textarea {
     border-radius: 5px;
     background-color: rgba(139, 195, 74, .8);
     padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+    
+    
 }
 
-/* Form */
 
-/* .form-section {
-    /* clear: both; */
 
-/* background-size: cover;
-    background-position: center;
-    height: 900px;
-    
-} */
-
+/* 
 
 
 .contact_us_form>h3 {
