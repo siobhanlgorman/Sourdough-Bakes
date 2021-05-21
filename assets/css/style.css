@@ -642,7 +642,7 @@ e
     }
 
     .our_bakes1, .our_sweet_bakes {
-        width: auto;
+        width: 50%;
     }
 
     #address-block {
