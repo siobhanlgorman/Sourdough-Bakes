@@ -165,4 +165,8 @@ flexbox approach various sources
 
 contact form adapted from https://www.w3schools.com/howto/howto_css_contact_form.asp
 
-
+stackoverflow
+W3 schools
+freecodecamp - flexbox
+Flexbox Froggy
+codercoder.com https://coder-coder.com/display-divs-side-by-side/#grid-method
