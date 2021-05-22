@@ -32,7 +32,7 @@ h3 {
     float: left;
     font-size: 150%;
     color: #5b8030;
-    margin-left: 30px;
+    margin-left: 20px;
     text-transform: lowercase;
 
 }
@@ -43,7 +43,7 @@ h3 {
     display: flex;
     font-size: 2.5vh;
     float: right;
-    margin-left: 30px;
+    margin-left: 10px;
 
 
 }
@@ -556,7 +556,9 @@ textarea {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
 
-
+#menu {
+    font-size: 80%;
+}
     
 footer {
 
@@ -595,14 +597,23 @@ footer {
 }
 
 /* For small screen sizes from 576px wide and down */
+
 @media screen and (max-width: 576px) {
 
     #menu {
         font-size: 90%;
         margin-left: 0;
-
+        margin-right: 30px
+        
 
     }
+
+    #logo {
+        margin-left: 30px;
+    }
+
+
+
 
 
     #snapshot_section {
