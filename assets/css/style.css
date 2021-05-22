@@ -258,6 +258,17 @@ h3 {
 
 }
 
+/* back to top arrow */
+
+.back-to-top a {
+    color: #5b8030;
+    font-size: 150%;
+}
+
+.back-to-top {
+    text-align: right;
+    margin-right: 10px;
+}
 
 /* footer */
 
@@ -467,6 +478,10 @@ h3 {
 
     width: 33%;
 
+}
+
+#contact_us_link {
+    text-align: center;
 }
 
 
