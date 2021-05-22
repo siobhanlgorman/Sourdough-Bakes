@@ -22,7 +22,7 @@ h1,
 h2,
 h3 {
     font-family: Poppins, sans-serif;
-    /* font-size: 1em; */
+    
     color: #252525;
 
 }
@@ -89,7 +89,7 @@ h3 {
 
 }
 
-#cover-text {
+#cover-text, #sourdough-cover-text, #about-us-cover-text, #our-bakes-cover-text, #contact-cover-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
@@ -385,8 +385,9 @@ h3 {
 
 }
 
-#our_bakes h3 {
+.our_bakes h3 {
     color: #5b8030;
+    
 }
 
 #our-bakes-outer {
