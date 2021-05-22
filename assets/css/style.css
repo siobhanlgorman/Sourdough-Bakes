@@ -396,7 +396,7 @@ article a {
     padding: 1em;
 }
 
-.about-text h2 {
+.about-text h2, h3 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
