@@ -263,11 +263,13 @@ h3 {
 .back-to-top a {
     color: #5b8030;
     font-size: 150%;
+    text-decoration: none;
 }
 
 .back-to-top {
     text-align: right;
     margin-right: 10px;
+    color: #5b8030;
 }
 
 /* footer */
