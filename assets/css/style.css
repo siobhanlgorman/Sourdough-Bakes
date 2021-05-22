@@ -556,10 +556,7 @@ textarea {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
 
-/* #menu {
-    font-size: 80%;
-} */
-    
+   
 footer {
 
         flex-direction: column;
@@ -578,14 +575,9 @@ footer {
     }
 
 
+    
 
-
-
-    .our_bakes1,
-    .our_sweet_bakes {
-        width: 50%;
-
-    }
+   
 
     #address-block {
         font-size: 50%;
@@ -625,8 +617,6 @@ footer {
         width: 50vw;
         height: 50%;
     }
-
-
 
 
     .our_products {
