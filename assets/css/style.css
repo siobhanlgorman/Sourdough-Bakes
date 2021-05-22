@@ -22,7 +22,7 @@ h1,
 h2,
 h3 {
     font-family: Poppins, sans-serif;
-    font-size: 1em;
+    /* font-size: 1em; */
     color: #252525;
 
 }
@@ -381,7 +381,7 @@ h3 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: 1em;
+    /* font-size: 1em; */
 
 }
 
