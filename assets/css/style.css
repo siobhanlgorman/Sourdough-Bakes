@@ -41,7 +41,7 @@ h3 {
 
 #menu {
     display: flex;
-    /* font-size: 2.5vh; */
+    font-size: 2.5vh;
     float: right;
     margin-left: 30px;
 
@@ -616,6 +616,7 @@ textarea {
     #menu {
         margin-right: 30px;
         margin-left: 0;
+        
     }
 
     .our_products {
