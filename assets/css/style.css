@@ -27,6 +27,7 @@ h3 {
 
 }
 
+
 #logo {
     float: left;
     font-size: 150%;
@@ -149,26 +150,29 @@ h3 {
 
 
 /* welcome section */
-/* flexbox?*/
-/* #welcome {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-} */
-/* flexbox end */
+
+
+
 #welcome-text {
+    box-sizing: border-box;
     font-size: 100%;
-    /* font-family: Poppins, sans-serif; */
+    
+    border: 2px solid #5b8030;
 
 
     text-align: center;
 
-    width: 50%;
-    height: 450px;
+    width: 90vw;
+    height: 500px;
+
+    margin-top: 30px;
+   
+
 
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+    /* background-color: green; */
 
 
     padding-top: 40px;
@@ -176,12 +180,12 @@ h3 {
 
 
 
-    position: relative;
+    /* position: relative; */
 
 
 
-    border: 0;
-    border-radius: 0;
+    /* border: 0;
+    border-radius: 0; */
 
 
 }
@@ -195,31 +199,20 @@ h4 {
 
 
 #review-text {
+    box-sizing: border-box;
+    border: 2px solid none;
+    background-color: rgb(91, 128, 48, .5);
+    border-radius: 20px;
     font-size: 100%;
     font-family: Poppins, sans-serif;
-
-    
     text-align: center;
-
-    width: 50%;
+    width: 50vw;
     height: 200px;
-
     margin-left: auto;
     margin-right: auto;
-
-
     padding-top: 40px;
     padding-left: 10px;
-
-
-
     position: relative;
-
-
-
-
-
-
 
 }
 
@@ -227,8 +220,8 @@ h4 {
     font-style: italic;
 }
 
-#welcome-text h3,
-h4 {
+#welcome-text h2
+{
     padding-top: 40px;
     padding-bottom: 20px;
 }
@@ -265,13 +258,19 @@ h4 {
 
 /* Link to Our Bakes page */
 
+
+
 #view_link a {
     text-decoration: none;
 }
 
 #view_link h3 {
     color: #5b8030;
-    font-size: 75%;
+    font-size: 100%;
+    
+ 
+      
+    
 }
 
 
@@ -285,6 +284,7 @@ footer {
     padding-top: 15px;
     margin-top: 10px;
     margin-left: 10px;
+    background-color: #d3d3d3;
 
 
 }
@@ -380,9 +380,9 @@ article a {
 
 .about-text {
 
-    width: 75%;
+    width: 50vw;
     font-size: 100%;
-    text-align: justify;
+    /* text-align: justify; */
     /* font-family: Poppins, sans-serif; */
     margin-left: auto;
     margin-right: auto;
@@ -585,7 +585,7 @@ textarea {
     }
 
     .snapshot>img {
-        width: 50%;
+        width: 50vw;
         height: 50%;
     }
 
