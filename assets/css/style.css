@@ -262,7 +262,7 @@ h3 {
 
 .back-to-top a {
     color: #5b8030;
-    font-size: 100%;
+    font-size: 150%;
     text-decoration: none;
 }
 
@@ -283,8 +283,7 @@ footer {
     padding-top: 15px;
     margin-top: 10px;
 
-    background-color: #d3d3d3;
-
+    border-top: solid 4px rgb(91, 128, 48, .5);
 
 }
 
