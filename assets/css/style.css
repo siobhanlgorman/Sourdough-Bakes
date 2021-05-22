@@ -59,8 +59,8 @@ h3 {
     float: left;
     list-style-type: none;
     margin: 0 2vw;
-    /* margin-right: 30px; */
 }
+   
 
 #menu a {
     text-decoration: none;
@@ -614,7 +614,7 @@ textarea {
 
 
     #menu {
-        margin-right: 30px;
+        font-size: 100%;
         margin-left: 0;
         
     }
