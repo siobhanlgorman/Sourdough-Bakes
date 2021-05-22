@@ -41,7 +41,7 @@ h3 {
 
 #menu {
     display: flex;
-    font-size: 2.5vh;
+    font-size: 1.5vw;
     float: right;
     margin-left: 10px;
 
@@ -556,9 +556,9 @@ textarea {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
 
-#menu {
+/* #menu {
     font-size: 80%;
-}
+} */
     
 footer {
 
