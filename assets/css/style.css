@@ -22,7 +22,7 @@ h1,
 h2,
 h3 {
     font-family: Poppins, sans-serif;
-    /* letter-spacing: 4px; */
+    font-size: 1em;
     color: #252525;
 
 }
@@ -190,8 +190,7 @@ h3 {
 
 }
 
-#welcome-text h3,
-h4 {
+#welcome-text h2 {
     padding-top: 20px;
     padding-bottom: 20px;
 
@@ -336,8 +335,8 @@ footer {
 
 
 /* About page*/
-/* About Us section */
 
+/* Image */
 
 #about-us-outer {
     height: 600px;
@@ -346,10 +345,6 @@ footer {
     position: relative;
 }
 
-
-/* #about-us {
-    justify-content: center;
-} */
 
 #bakery-image {
     height: 600px;
@@ -377,7 +372,6 @@ article a {
     text-decoration: none;
 }
 
-
 .about-text {
 
     width: 90vw;
@@ -389,7 +383,7 @@ article a {
     margin: auto;
     padding-top: 40px;
     padding-left: 10px;
-    text-align: justify;
+    text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 
@@ -400,12 +394,11 @@ article a {
     padding: 1em;
 }
 
-.about-text h2,
-h3,
-h4 {
+.about-text h2 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 1em;
 
 }
 
@@ -436,10 +429,12 @@ h4 {
 #our_bread_text,
 #our_sweet_text {
     text-align: center;
-    margin: 1%;
-    padding: 1%;
+    margin: 1em;
+    padding: 1em;
+    line-height: 3em;
 
 }
+
 
 
 
