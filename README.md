@@ -5,25 +5,28 @@
 Pictures to showcase
 
 # Introduction
-This is a website for a new bakery in Ennis, Co. Clare which specialises in baked goods made by the sourdough method. There are two ranges available bread and sweet bakes. 
+This is a website for a new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients and no artificial additives. There are two ranges available bread and sweet bakes. 
 
-The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients, are freshly baked daily and are healthier than mass-produced processed baked goods.
+The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients,freshly baked and have an interest in a healthy diet with good quality baked goods.
 
 # UX
 
 ## Website Owner Business Goals
 As the site owner of this bakery I want
 
-* to deliver clear and easy to read information about my produce
-* to encourage customers to visit the bakery to buy produce and offer them the opportunity to order for collection
+* to deliver clear and easy to read information about my produce, the types offered and their price
+* to encourage customers to visit the bakery to buy produce and offer them the opportunity to order and collect in store.
+* to provide background information about why my produce is unique, healthy and good quality
 
 ## User Goals
 As a user I want to
 
   * easily and intuitively navigate throughout the website
   * easily navigate between pages and return to home screen with one click
+  * easily return to the navigation menu at the top of the page from the bottom of the page
   * be able to view the website and read all information on all screen sizes
-  * view clear images
+  * view clear images throughout the site especially of the produce
+
 
 ## User Stories
 
@@ -31,11 +34,9 @@ As a user I want to
 As the website and business owner I want to
   * create an online presence for our business
   * grow our local customer base
-  * inform prospective customers about our produce, location, opening hours
-  * keep existing customers up to date with new produce and special events
-I want new and prospective customers to be able to contact us easily with queries
-I want customers to be able to reserve produce online for collection and payment instore
-I want to provide some information about what makes our bakes unique (authentic sourdough) 
+  * inform existing and new customers about our produce, location, opening hours
+  * to provide a method of contact for customers to order produce or ask questions
+  * to provide some introductory information on our USP which is authentic sourdough baked produce
 
 
 ### As a general user of the website/customer I want to 
@@ -45,7 +46,8 @@ I want to provide some information about what makes our bakes unique (authentic 
 * view all the produce and relevant information about each item
 
 ### As a new user I want to
-* know what makes this bakery unique
+* find out what is different about the baked goods from this bakery compared to others
+
 
 # Structure of the website
 
@@ -56,10 +58,15 @@ I want to provide some information about what makes our bakes unique (authentic 
 ## Fonts
 
 ## Colours
+* I chose colours which I thought conjured up natural, organic, healthy - so green shades I kept the background neutral white to keep contrast high woth the charcoal text font colour
 
 ## Images
 
+Taken from Pixabay and resized for the purpose of this website
+
+
 ## Text
+This author's own words
 
 ## Features
 
@@ -67,24 +74,59 @@ I want to provide some information about what makes our bakes unique (authentic 
 
 #### Navigation Bar
 * Visible on all pages at top of menu
-* Collapses into burger menu on mobile screen
 * left side of navigation bar features logo with link to home page
-* right side of navigation bar features links to each of the four pages
-* 
+* right side of navigation bar features links to each of the four pages of the site: Home, About, Our Bakes and Contact Us
+* log slides into row above navigation menu as screen size reduces
+
+#### Footer
+* visible on all pages
+* left side has the business address and opening hours in a column, with logo which links to home page
+* lined in a horizontal row from the right are four icons with links to the map address of the business and three social media accounts.
+
+#### Back to Top Arrow
+* Each page features an arrow at the bottom right which links back to the top of the page.
+
+
 
 #### Home page
+
+Hero Image with zoom effect
+
 #### About
+
+This pages has two sections, one about the business and the other providing a short introduction to sourdough.
 #### Our Bakes
+
+Images of products in rows of two which collapse into a column of one at mobile ohone screen size
+
 #### Contact
+
+form for user to enter name email and a message, all required. And a submit button
 
 ### Future Features
 * payment facility
+* links to recipes
+* links to more detailed infomration about sourdough
+* offer to subscribe to a newsletter for information about events and offers
 
 ## Languages
 
+HTML
+CSS
+
 ## Technologies Used
 
+Balsamiq
+Google Fonts
+Fontawesome - for the social media icons and the arrow back to top
+Git
+
 ## Testing
+
+HTML Validator
+CSS Validator
+Lighthouse
+
 
 ### HTML
 ### CSS
@@ -97,6 +139,10 @@ I want to provide some information about what makes our bakes unique (authentic 
 ### Manual Testing
 
 ### Deployment
+This website was deployed to Git and the steps taken to deploy were:
+1. 
+2. 
+3. 
 
 ### Bugs
 
@@ -113,10 +159,10 @@ chocolate Kevin Petit
 cinnamon Otto Norin
 carrot Varan Kilkarni
 
-hero-image and zoom effect from love running walkthrough project
+hero-image with cover-text and zoom effect based on love running walkthrough project
 
 flexbox approach various sources
 
-form adapted from https://www.w3schools.com/howto/howto_css_contact_form.asp
+contact form adapted from https://www.w3schools.com/howto/howto_css_contact_form.asp
 
 
