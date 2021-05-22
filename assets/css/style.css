@@ -541,14 +541,14 @@ textarea {
     
 }
 
-/* Style the submit button with a specific background color etc */
+
 .submit-button {
     background-color: gray;
     color: whitesmoke;
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
-    /* cursor: pointer; */
+    
 }
 
 .submit-button:hover {
@@ -556,7 +556,7 @@ textarea {
 }
 
 
-/* Add a background color and some padding around the form */
+
 .contact_us_form {
     border-radius: 5px;
     background-color: rgba(139, 195, 74, .8);
@@ -648,5 +648,8 @@ textarea {
    
 }
 
+#contact_us_link {
+    text-align: center;
+}
 
 }
