@@ -531,20 +531,16 @@ textarea {
 
 /* For large to medium size screens */
 
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) { */
 
 
-    /* #snapshot_section {
-        display: flex;
-        flex-direction: column;
-    }
+    
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
 
-    .snapshot>img {
-        width: 50vw;
-        height: 50%;
-    } */
 
-    footer {
+    
+footer {
 
         flex-direction: column;
     }
@@ -561,23 +557,8 @@ textarea {
         margin: auto;
     }
 
-}
-
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
 
 
-    /* #menu {
-        font-size: 100%;
-        margin-left: 0;
-
-    } */
-
-    /* .our_products {
-        display: flex;
-        flex-direction: column;
-        /* text-align: right; 
-        align-items: center; */
 
 
     .our_bakes1,
@@ -590,7 +571,7 @@ textarea {
         font-size: 50%;
     }
 
-    */ .contact_us_form {
+     .contact_us_form {
         width: 75%;
     }
 }
@@ -601,7 +582,7 @@ textarea {
     #menu {
         font-size: 90%;
         margin-left: 0;
-        
+
 
     }
 
@@ -622,7 +603,6 @@ textarea {
     .our_products {
         display: flex;
         flex-direction: column;
-        /* text-align: right; */
         align-items: center;
     }
 
