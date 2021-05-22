@@ -41,7 +41,7 @@ h3 {
 
 #menu {
     display: flex;
-    font-size: 2.5vh;
+    /* font-size: 2.5vh; */
     float: right;
     margin-left: 30px;
 
@@ -283,7 +283,7 @@ footer {
     height: 150px;
     padding-top: 15px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
     background-color: #d3d3d3;
 
 
@@ -380,15 +380,16 @@ article a {
 
 .about-text {
 
-    width: 50vw;
+    width: 90vw;
     font-size: 100%;
-    /* text-align: justify; */
+    
     /* font-family: Poppins, sans-serif; */
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: auto;
     padding-top: 40px;
     padding-left: 10px;
-    text-align: center;
+    text-align: justify;
     padding-top: 20px;
     padding-bottom: 20px;
 
@@ -396,6 +397,7 @@ article a {
 
 .about-text p {
     margin: 1em;
+    padding: 1em;
 }
 
 .about-text h2,
@@ -573,7 +575,7 @@ textarea {
 
 
 
-
+/* For laptop size screens */
 
 @media screen and (max-width: 1200px) {
 
@@ -636,4 +638,15 @@ textarea {
     .contact_us_form {
         width: 75%;
     }
+}
+
+/* For small screen sizes from 576px wide and down */
+@media screen and (max-width: 576px) {
+
+.about-text p {
+    margin: 0;
+   
+}
+
+
 }
