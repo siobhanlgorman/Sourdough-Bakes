@@ -266,6 +266,7 @@ h3 {
 #view_link h3 {
     color: #5b8030;
     font-size: 100%;
+    text-align: center;
     
  
       
@@ -282,7 +283,7 @@ footer {
     height: 150px;
     padding-top: 15px;
     margin-top: 10px;
-    /* margin-left: 10px; */
+   
     background-color: #d3d3d3;
 
 
@@ -374,7 +375,7 @@ article a {
 
 .about-text {
 
-    width: 90vw;
+    width: 75%;
     font-size: 100%;
     
     /* font-family: Poppins, sans-serif; */
@@ -429,14 +430,16 @@ article a {
 #our_bread_text,
 #our_sweet_text {
     text-align: center;
-    margin: 1em;
+    margin: 2em;
     padding: 1em;
-    line-height: 3em;
+    line-height: 1em;
 
 }
 
+.our-bread-text p {
+    padding: 1em;
 
-
+}
 
 .our_bakes1>img {
 
