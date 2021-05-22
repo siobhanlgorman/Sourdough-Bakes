@@ -22,7 +22,7 @@ h1,
 h2,
 h3 {
     font-family: Poppins, sans-serif;
-    
+
     color: #252525;
 
 }
@@ -89,7 +89,11 @@ h3 {
 
 }
 
-#cover-text, #sourdough-cover-text, #about-us-cover-text, #our-bakes-cover-text, #contact-cover-text {
+#cover-text,
+#sourdough-cover-text,
+#about-us-cover-text,
+#our-bakes-cover-text,
+#contact-cover-text {
     font-size: 100%;
     font-family: Poppins, sans-serif;
 
@@ -270,7 +274,7 @@ h3 {
     text-align: right;
     margin-right: 10px;
     color: #5b8030;
-    
+
 }
 
 /* footer */
@@ -398,9 +402,11 @@ h3 {
 
 }
 
+/* Our Bakes page */
+
 .our_bakes h3 {
     color: #5b8030;
-    
+
 }
 
 #our-bakes-outer {
@@ -416,7 +422,7 @@ h3 {
     background: url(../images/loaves.jpg) no-repeat center center;
 }
 
-/* Our Bakes page */
+
 
 #our_bread_text,
 #our_sweet_text {
@@ -552,12 +558,12 @@ textarea {
 /* @media screen and (max-width: 1200px) { */
 
 
-    
+
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
 
-   
-footer {
+
+    footer {
 
         flex-direction: column;
     }
@@ -575,15 +581,15 @@ footer {
     }
 
 
-    
 
-   
+
+
 
     #address-block {
         font-size: 50%;
     }
 
-     .contact_us_form {
+    .contact_us_form {
         width: 75%;
     }
 }
@@ -596,8 +602,6 @@ footer {
         font-size: 90%;
         margin-left: 0;
         margin-right: 30px
-        
-
     }
 
     #logo {
@@ -647,4 +651,29 @@ footer {
         text-align: center;
     }
 
+    /* recentre banner images */
+
+    #hero-image {
+        height: 600px;
+        width: 100%;
+        background: url(../images/hero-image1.jpg) no-repeat center bottom;
+    }
+
+    #bakery-image {
+        height: 600px;
+        width: 100%;
+        background: url(../images/bakery.jpg) no-repeat center bottom;
+    }
+    #loaves-image {
+        height: 600px;
+        width: 100%;
+        background: url(../images/loaves.jpg) no-repeat center top;
+    }
+
+    #dough-image {
+        height: 600px;
+        width: 100%;
+        background: url(../images/dough.jpg) no-repeat center bottom;
+    }
+    
 }
