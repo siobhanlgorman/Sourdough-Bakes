@@ -60,7 +60,7 @@ h3 {
     list-style-type: none;
     margin: 0 2vw;
 }
-   
+
 
 #menu a {
     text-decoration: none;
@@ -84,9 +84,9 @@ h3 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-    /* overflow-x: hidden; */
+
     position: relative;
-    /* text-align: center; */
+
 }
 
 #cover-text {
@@ -151,12 +151,10 @@ h3 {
 
 /* welcome section */
 
-
-
 #welcome-text {
     box-sizing: border-box;
     font-size: 100%;
-    
+
     border: 2px solid #5b8030;
     border-radius: 20px;
 
@@ -167,26 +165,15 @@ h3 {
     height: 500px;
 
     margin-top: 30px;
-   
+
 
 
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-    /* background-color: green; */
-
 
     padding-top: 40px;
     padding-left: 10px;
-
-
-
-    /* position: relative; */
-
-
-
-    /* border: 0;
-    border-radius: 0; */
 
 
 }
@@ -220,8 +207,7 @@ h3 {
     font-style: italic;
 }
 
-#welcome-text h2
-{
+#welcome-text h2 {
     padding-top: 40px;
     padding-bottom: 20px;
 }
@@ -237,7 +223,6 @@ h3 {
     justify-content: center;
 
     text-align: center;
-    /* padding-bottom: 25px; */
 
 
 }
@@ -268,10 +253,9 @@ h3 {
     color: #5b8030;
     font-size: 100%;
     text-align: center;
-    
- 
-      
-    
+
+
+
 }
 
 
@@ -284,7 +268,7 @@ footer {
     height: 150px;
     padding-top: 15px;
     margin-top: 10px;
-   
+
     background-color: #d3d3d3;
 
 
@@ -378,10 +362,6 @@ article a {
 
     width: 75%;
     font-size: 100%;
-    
-    /* font-family: Poppins, sans-serif; */
-    /* margin-left: auto;
-    margin-right: auto; */
     margin: auto;
     padding-top: 40px;
     padding-left: 10px;
@@ -396,7 +376,8 @@ article a {
     padding: 1em;
 }
 
-.about-text h2, h3 {
+.about-text h2,
+h3 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -421,11 +402,6 @@ article a {
     background: url(../images/loaves.jpg) no-repeat center center;
 }
 
-
-
-
-
-
 /* Our Bakes page */
 
 #our_bread_text,
@@ -448,7 +424,7 @@ article a {
     text-align: center;
     width: 100%;
     height: auto;
-    
+
 
 }
 
@@ -461,16 +437,13 @@ article a {
 
 }
 
-
-
-
 .our_bakes1 {
 
-    /* justify-content: space-evenly; */
+
     align-items: center;
     text-align: center;
     padding: 2%;
-   
+
     width: 33%;
 
 }
@@ -483,16 +456,14 @@ article a {
     width: 100%;
     height: auto;
 
-
 }
-
 
 .our_sweet_bakes {
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
     padding: 2%;
-    
+
     width: 33%;
 
 }
@@ -524,21 +495,13 @@ article a {
 .text-input,
 textarea {
     width: 100%;
-   
     padding: 12px;
-   
     border: 1px solid #ccc;
-   
     border-radius: 4px;
-   
     box-sizing: border-box;
-   
     margin-top: 6px;
-   
     margin-bottom: 16px;
-   
     resize: vertical
-    
 }
 
 
@@ -548,13 +511,12 @@ textarea {
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
-    
+
 }
 
 .submit-button:hover {
     background-color: #45a049;
 }
-
 
 
 .contact_us_form {
@@ -563,24 +525,16 @@ textarea {
     padding: 20px;
     width: 50%;
     margin: 10% auto;
-    
-    
+
+
 }
 
-
-
-
-
-
-
-
-/* For laptop size screens */
+/* For large to medium size screens */
 
 @media screen and (max-width: 1200px) {
 
-    
 
-    #snapshot_section {
+    /* #snapshot_section {
         display: flex;
         flex-direction: column;
     }
@@ -588,10 +542,10 @@ textarea {
     .snapshot>img {
         width: 50vw;
         height: 50%;
-    }
+    } */
 
     footer {
-        
+
         flex-direction: column;
     }
 
@@ -613,11 +567,57 @@ textarea {
 @media screen and (max-width: 950px) {
 
 
-    #menu {
+    /* #menu {
         font-size: 100%;
         margin-left: 0;
-        
+
+    } */
+
+    /* .our_products {
+        display: flex;
+        flex-direction: column;
+        /* text-align: right; 
+        align-items: center; */
+
+
+    .our_bakes1,
+    .our_sweet_bakes {
+        width: 50%;
+
     }
+
+    #address-block {
+        font-size: 50%;
+    }
+
+    */ .contact_us_form {
+        width: 75%;
+    }
+}
+
+/* For small screen sizes from 576px wide and down */
+@media screen and (max-width: 576px) {
+
+    #menu {
+        font-size: 90%;
+        margin-left: 0;
+        
+
+    }
+
+
+    #snapshot_section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .snapshot>img {
+        width: 50vw;
+        height: 50%;
+    }
+
+
+
 
     .our_products {
         display: flex;
@@ -629,28 +629,23 @@ textarea {
     .our_bakes1,
     .our_sweet_bakes {
         width: 50%;
+        font-size: 3vw;
     }
+
+
 
     #address-block {
         font-size: 50%;
     }
 
-    .contact_us_form {
-        width: 75%;
+    .about-text p {
+        text-align: justify;
+        width: 90%;
+
     }
-}
 
-/* For small screen sizes from 576px wide and down */
-@media screen and (max-width: 576px) {
-
-.about-text p {
-   text-align: justify;
-   width: 90%;
-   
-}
-
-#contact_us_link {
-    text-align: center;
-}
+    #contact_us_link {
+        text-align: center;
+    }
 
 }
