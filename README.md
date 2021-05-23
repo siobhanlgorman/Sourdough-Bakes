@@ -1,11 +1,12 @@
 # Milestone 1 Project: Sourdough Bakes
 
-[](link to live website)
+The link to the live website is here:
+[https://siobhanlgorman.github.io/Sourdough-Bakes/]
 
 Pictures to showcase
 
 # Introduction
-This is a website for a new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients and no artificial additives. There are two ranges available bread and sweet bakes. 
+This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. 
 
 The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and are of high quality.
 
@@ -52,7 +53,7 @@ As the website and business owner I want to
 # Structure of the website
 
 # Wireframes
-[wireframes]
+[https://github.com/siobhanlgorman/Sourdough-Bakes/tree/master/wireframess]
 
 # Surface
 
