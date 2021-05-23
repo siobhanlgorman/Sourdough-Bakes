@@ -57,9 +57,16 @@ As the website and business owner I want to
 
 ## Fonts
 
+Body Lora, sans serif
+Headings and logo Poppins sans serif
+
 ## Colours
-* The colour theme is based around the colour of the business logo which is # dark green. The other green shades on the site and the 
+    
+* The colour theme is based around the colour of the business logo which is color: #5b8030; dark green. The other green shades on the site and the 
 are chosen to  and to conjure up the ehtos of the business which is natural, organic, healthy food - so green shades I kept the background neutral white to keep contrast high and the charcoal text font colour is less harsh to the users' eyes than black.
+
+    body font color: #3a3a3a;
+
 
 ## Images
 
