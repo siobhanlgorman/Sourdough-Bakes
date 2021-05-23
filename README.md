@@ -165,6 +165,8 @@ This website was deployed to Git and the steps taken to deploy were:
 
 ### Bugs
 
+Diffiuclty getting nav bar to display correctly in one line on iphone. Variously changed font size.
+
 ### Credits
 
 
