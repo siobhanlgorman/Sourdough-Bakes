@@ -4,7 +4,7 @@ The link to the live website is here:
 [https://siobhanlgorman.github.io/Sourdough-Bakes/]
 
 Pictures to showcase
-
+![alt-text](documentation/sourdoughbakes.png)
 # Introduction
 This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. 
 
