@@ -1,7 +1,6 @@
 # Milestone 1 Project: Sourdough Bakes
 
-The link to the live website is here:
-[https://siobhanlgorman.github.io/Sourdough-Bakes/]
+
 
 Pictures to showcase
 ![alt-text](documentation/sourdoughbakes.png)
@@ -53,7 +52,7 @@ As the website and business owner I want to
 # Structure of the website
 
 # Wireframes
-[https://github.com/siobhanlgorman/Sourdough-Bakes/tree/master/wireframess]
+[https://github.com/siobhanlgorman/Sourdough-Bakes/tree/master/wireframes]
 
 # Surface
 
@@ -76,6 +75,7 @@ underline to show active page on menu grey #3a3a3a
 ## Images
 
 Taken from Pixabay and resized for the purpose of this website
+Styled with curved borders which is modern and gives a softer effect.
 
 
 ## Text
@@ -88,7 +88,7 @@ This author's own words
 #### Navigation Bar
 * Visible on all pages at top of menu
 * left side of navigation bar features the business logo with link to home page from every page on the site as this is expected by the user
-* right side of navigation bar features links to each of the four pages of the site: Home, About, Our Bakes and Contact Us. It is positioned on the right as this is where the user expects it to be
+* right side of navigation bar features links to each of the four pages of the site: Home, About, Our Bakes and Contact Us. It is positioned on the right as this is where the user expects it to be. 
 * logo slides into row above navigation menu as screen size reduces
 * the active link underlines according to which page is active on the website and the when the cursor hovers the background colour of the link turns green in keeping with the colour scheme of the site.
 
@@ -100,7 +100,7 @@ This author's own words
 #### Back to Top Arrow
 * Each page features an arrow at the bottom right which links back to the top of the page.
 
-
+The site is organised into four separate pages home about our bakes and contact so that the user can quickly and easily find the content they are looking for without scrolling through everything.
 
 #### Home page
 
@@ -120,9 +120,10 @@ form for user to enter name email and a message, all required. And a submit butt
 ### Future Features
 * payment facility
 * links to recipes
-* links to more detailed infomration about sourdough
+* links to more detailed information about sourdough
 * offer to subscribe to a newsletter for information about events and offers
-
+* try to center nav menu on smaller screens
+* center cover-text on main images for all screen sizes
 ## Languages
 
 HTML
@@ -137,13 +138,15 @@ Git
 
 ## Testing
 
-HTML Validator
-CSS Validator
-Lighthouse
+HTML Validator was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
+CSS Validator was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator.
+Lighthouse in Chrome Developer Tools was used and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
 
 
 ### HTML
+
 ### CSS
+
 ### Responsiveness
 * browsers
 Chrome, Mozilla, Edge
@@ -158,17 +161,22 @@ IPad
 
 ### Manual Testing
 
-
+All links on all pages were checked
+Form was submitted successfully to Code Institute form dump
 
 ### Deployment
-This website was deployed to Git and the steps taken to deploy were:
-1. 
-2. 
-3. 
+
+The site was deployed to GitHub pages. The steps taken to deploy are as follows:
+1. In the GitHub repository, navigate to the Settings tab
+2. From the source section drop-down menu, select the Master Branch
+3. Once the master branch has been selected, the page will be automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
+The link to the live website is here:
+[https://siobhanlgorman.github.io/Sourdough-Bakes/]
+ 
 
 ### Bugs
 
-Diffiuclty getting nav bar to display correctly in one line on iphone. Variously changed font size.
+Difficulty getting nav bar to display correctly in one line on iphone. Variously changed font size.
 
 ### Credits
 
