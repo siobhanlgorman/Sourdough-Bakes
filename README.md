@@ -52,6 +52,7 @@ As the website and business owner I want to
 # Structure of the website
 
 # Wireframes
+[wireframes]
 
 # Surface
 
