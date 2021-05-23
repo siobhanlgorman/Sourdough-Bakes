@@ -67,6 +67,9 @@ Headings and logo Poppins sans serif
 * The colour theme is based around the colour of the business logo which is color: #5b8030; dark green. The other green shades on the site and the 
 are chosen to  and to conjure up the ehtos of the business which is natural, organic, healthy food - so green shades I kept the background neutral white to keep contrast high and the charcoal text font colour is less harsh to the users' eyes than black.
 
+cursor hover colour green #8bc34a
+underline to show active page on menu grey #3a3a3a
+    headings colour #252525 less harsh than black, also used for text on cover of hero image as #3a3a3a was a little too faint.
     body font color: #3a3a3a;
 
 
