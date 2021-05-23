@@ -579,7 +579,7 @@ textarea {
         font-size: x-small;
         justify-content: center;
         margin: auto;
-    }
+    }    
 
 
 
@@ -652,7 +652,7 @@ textarea {
         text-align: center;
     }
 
-    /* recentre banner images */
+    /* recentre banner images for better image on small screens*/
 
     #hero-image {
         height: 600px;
