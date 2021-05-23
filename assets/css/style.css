@@ -112,12 +112,7 @@ h3 {
 
 }
 
-/* #cover-text h2,
-h3 {
-    color: #3a3a3a;
-    color: #252525
-} */
-
+/* hero image */
 
 
 #hero-image {
@@ -148,7 +143,7 @@ h3 {
 }
 
 
-/* welcome section */
+/* welcome section on home page */
 
 #welcome-text {
     box-sizing: border-box;
@@ -162,15 +157,10 @@ h3 {
 
     width: 90vw;
     height: 500px;
-
     margin-top: 30px;
-
-
-
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-
     padding-top: 40px;
     padding-left: 10px;
 
@@ -213,7 +203,7 @@ h3 {
 
 
 
-/* snapshot section */
+/* snapshot of products section */
 
 #snapshot_section {
     display: flex;
@@ -242,7 +232,7 @@ h3 {
 
 /* Link to Our Bakes page */
 
-
+/* remove default underline */
 
 #view_link a {
     text-decoration: none;
@@ -252,8 +242,6 @@ h3 {
     color: #5b8030;
     font-size: 100%;
     text-align: center;
-
-
 
 }
 
@@ -335,7 +323,7 @@ footer {
 
 /* About page*/
 
-/* Image */
+/* Main banner image with text overlay */
 
 #about-us-outer {
     height: 600px;
@@ -345,6 +333,7 @@ footer {
 }
 
 
+
 #bakery-image {
     height: 600px;
     width: 100%;
@@ -352,7 +341,7 @@ footer {
 }
 
 
-/* About Sourdough section*/
+/* About Sourdough section image */
 
 #sourdough-image {
     height: 600px;
@@ -366,6 +355,8 @@ footer {
     overflow: hidden;
     position: relative;
 }
+
+/* remove default underline from link to products page */
 
 article a {
     text-decoration: none;
@@ -405,6 +396,8 @@ h3 {
 
 }
 
+/* main image */
+
 #our-bakes-outer {
     height: 600px;
     width: 100%;
@@ -419,6 +412,8 @@ h3 {
 }
 
 
+
+/* images of produce gallery and text */
 
 #our_bread_text,
 #our_sweet_text {
@@ -484,6 +479,8 @@ h3 {
 
 }
 
+/* link to contact us form page */
+
 #contact_us_link {
     text-align: center;
 }
@@ -495,6 +492,8 @@ h3 {
 }
 
 /*Contact Us page*/
+
+/* main image */
 
 #contact-us-outer {
     height: 600px;
@@ -509,7 +508,8 @@ h3 {
     background: url(../images/dough.jpg) no-repeat center center;
 }
 
-/* Form based on w3 schools contact form*/
+
+/* Form adapted from w3 schools contact form*/
 
 
 .text-input,
@@ -579,12 +579,7 @@ textarea {
         font-size: x-small;
         justify-content: center;
         margin: auto;
-    }    
-
-
-
-
-
+    }
 
     #address-block {
         font-size: 50%;
@@ -604,15 +599,12 @@ textarea {
         margin-left: 0;
         margin-right: 30px;
         line-height: 45px;
-        
+
     }
 
     #logo {
         margin-left: 30px;
     }
-
-
-
 
 
     #snapshot_section {
@@ -637,7 +629,6 @@ textarea {
         width: 50%;
         font-size: 3vw;
     }
-
 
 
     #address-block {
