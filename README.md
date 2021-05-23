@@ -7,7 +7,7 @@ Pictures to showcase
 # Introduction
 This is a website for a new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients and no artificial additives. There are two ranges available bread and sweet bakes. 
 
-The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients,freshly baked and have an interest in a healthy diet with good quality baked goods.
+The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and are of high quality.
 
 # UX
 
@@ -132,11 +132,19 @@ Lighthouse
 ### CSS
 ### Responsiveness
 * browsers
+Chrome, Mozilla, Edge
 * screens
+Iphone
+Moto G8 plus
+Laptop 15"
+IPad
+
 
 ### User Stories Testing
 
 ### Manual Testing
+
+
 
 ### Deployment
 This website was deployed to Git and the steps taken to deploy were:
