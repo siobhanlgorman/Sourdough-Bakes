@@ -167,9 +167,12 @@ Form was submitted successfully to Code Institute form dump
 ### Deployment
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
-1. In the GitHub repository, navigate to the Settings tab
-2. From the source section drop-down menu, select the Master Branch
-3. Once the master branch has been selected, the page will be automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
+1. Log in to Github
+2. Navigate to siobhanlgorman/sourdoughbakes in the list of repositories
+3. In the GitHub repository, navigate to the Settings tab
+4. In Settings scroll down to GitHub pages which opens in a new page.
+5. From the source section drop-down menu, select the Master Branch
+6. Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
 The link to the live website is here:
 [https://siobhanlgorman.github.io/Sourdough-Bakes/]
  
@@ -195,10 +198,11 @@ hero-image with cover-text and zoom effect based on love running walkthrough pro
 
 flexbox approach various sources
 
-contact form adapted from https://www.w3schools.com/howto/howto_css_contact_form.asp
+contact form adapted from [https://www.w3schools.com/howto/howto_css_contact_form.asp]
 
 stackoverflow
 W3 schools
 freecodecamp - flexbox
 Flexbox Froggy
-codercoder.com https://coder-coder.com/display-divs-side-by-side/#grid-method
+codercoder.com [https://coder-coder.com/display-divs-side-by-side/#grid-method]
+font awesome for the icons social media and arrow
