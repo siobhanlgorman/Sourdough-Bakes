@@ -514,7 +514,7 @@ h3 {
     background: url(../images/dough.jpg) no-repeat center center;
 }
 
-/* Form */
+/* Form based on w3 schools contact form*/
 
 
 .text-input,
@@ -554,13 +554,16 @@ textarea {
 
 }
 
+/* Media Queries */
+
 /* For large to medium size screens */
 
-/* @media screen and (max-width: 1200px) { */
+@media screen and (max-width: 1200px) {
 
     #menu {
-        font-size: 100%;
+        font-size: 18px;
     }
+}
 
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
@@ -681,5 +684,15 @@ textarea {
         width: 100%;
         background: url(../images/dough.jpg) no-repeat center bottom;
     }
+
+}
+
+/* For small screen sizes from 576px wide and down */
+
+@media screen and (max-width: 350px) {
+    #menu {
+        font-size: 15px;
+    }
+
 
 }
