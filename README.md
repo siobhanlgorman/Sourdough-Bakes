@@ -58,7 +58,8 @@ As the website and business owner I want to
 ## Fonts
 
 ## Colours
-* I chose colours which I thought conjured up natural, organic, healthy - so green shades I kept the background neutral white to keep contrast high woth the charcoal text font colour
+* The colour theme is based around the colour of the business logo which is # dark green. The other green shades on the site and the 
+are chosen to  and to conjure up the ehtos of the business which is natural, organic, healthy food - so green shades I kept the background neutral white to keep contrast high and the charcoal text font colour is less harsh to the users' eyes than black.
 
 ## Images
 
@@ -74,9 +75,10 @@ This author's own words
 
 #### Navigation Bar
 * Visible on all pages at top of menu
-* left side of navigation bar features logo with link to home page
-* right side of navigation bar features links to each of the four pages of the site: Home, About, Our Bakes and Contact Us
-* log slides into row above navigation menu as screen size reduces
+* left side of navigation bar features the business logo with link to home page from every page on the site as this is expected by the user
+* right side of navigation bar features links to each of the four pages of the site: Home, About, Our Bakes and Contact Us. It is positioned on the right as this is where the user expects it to be
+* logo slides into row above navigation menu as screen size reduces
+* the active link underlines according to which page is active on the website and the when the cursor hovers the background colour of the link turns green in keeping with the colour scheme of the site.
 
 #### Footer
 * visible on all pages
