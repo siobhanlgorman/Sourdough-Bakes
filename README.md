@@ -13,8 +13,8 @@
   * [User Goals](#user-goals)
   * [User Stories](#user-stories)
     + [As a business owner](#as-a-business-owner)
-    + [As a general user of the website/customer I want to](#as-a-general-user-of-the-website-customer-i-want-to)
-    + [As a new user I want to](#as-a-new-user-i-want-to)
+    + [As a general user of the website/customer](#as-a-general-user-of-the-website-customer)
+    + [As a new user](#as-a-new-user)
 - [Design of the website](#design-of-the-website)
   * [Wireframes](#wireframes)
   * [Fonts and Colour Scheme](#fonts-and-colour-scheme)
@@ -43,9 +43,6 @@
   * [Bugs](#bugs)
   * [Unfixed Bugs](#unfixed-bugs)
   * [Credits](#credits)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 # Introduction
@@ -187,27 +184,27 @@ The contact page features a form for user to enter name, email and a message, al
 
 # Languages
 
-HTML (Hypertext Markup Language) was used to design the website and CSS (Cascading Style Sheets) to style the HTML code.
+HTML (Hypertext Markup Language) was used to design the basic website and CSS (Cascading Style Sheets) to style the website and make it look appealing to the user.
 
 
 # Technologies Used
 
-Balsamiq was used to create the wireframes.
+[Balsamiq](https://balsamiq.com/) was used to create the wireframes.
 
-Google Fonts was used for the fonts: Poppins and Lora.
+[Google Fonts](https://fonts.google.com) was used for the fonts: Poppins and Lora.
 
-Fontawesome was used for the social media icons, map link and the arrow back to top.
+[Fontawesome](https://fontawesome.com) was used for the social media icons, map link and the arrow back to top.
 
-Google maps was used to provide a map link.
+[Google maps](https://www.google.com/maps) was used to provide a map link.
 
 
 # Testing
 
 ## Validation
 
-* HTML Validator was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
-* CSS Validator was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator.
-* Lighthouse in Chrome Developer Tools was used and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
+* [HTML Validator](https://validator.w3.org/) was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
+* [CSS Validator]https://validator.w3.org/) was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator with no errors.
+* Lighthouse in Chrome Developer Tools was used to check performance and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
 
 ## Responsiveness
 
@@ -358,34 +355,38 @@ All bugs identified were fixed
 
 ## Credits
 
-Photos:
+### Photos:
 
-bakery.jpg by Pexels from Pixabay
-dough.jpg by Skitterphoto from Pixabay
-granary2.jpg by Alexa from Pixabay 
-five_seed3.jpg by Couleur from Pixabay
-hero-image1.jpg by Aurelio Fox RJ from Pixabay
-loaves.jpg by Michelle Still Creates from Pixabay
-mill_loaf4.jpg by Mark Croemers from Pixabay
-our_bread.jpg by Renee Olmsted from Pixabay
-our_pastries.jpg by Photowill from Pixabay
-rsz_1lemon.jpg by Photowill from Pixabay
-rsz_banana3.jpg by Martina Rogusci from Pixabay
-rsz_blueberry6.jpg by Sofia Livaren from Pixabay
-rsz_carrot5.jpg by Varan Kilkarni from Pixabay
-rsz_chocolate4.jpg by Kevin Petit from Pixabay
-rsz_cinnamon1.jpg by Otto Norin from Pixabay
-rustic_white1.jpg by Couleur from Pixabay
-rye5.jpg by Plotnik 0l from from Pixabay
-sourdough.jpg by Tom Bock1 from Pixabay
-wholemeal6.jpg by Couleur from Pixabay
+From [Pixabay](https://pixabay.com/)
+
+1. bakery.jpg by Pexels from Pixabay
+2. dough.jpg by Skitterphoto from Pixabay
+3. granary2.jpg by Alexa from Pixabay 
+4. five_seed3.jpg by Couleur from Pixabay
+5. hero-image1.jpg by Aurelio Fox RJ from Pixabay
+6. loaves.jpg by Michelle Still Creates from Pixabay
+7. mill_loaf4.jpg by Mark Croemers from Pixabay
+8. our_bread.jpg by Renee Olmsted from Pixabay
+9. our_pastries.jpg by Photowill from Pixabay
+10. rsz_1lemon.jpg by Photowill from Pixabay
+11. rsz_banana3.jpg by Martina Rogusci from Pixabay
+12. rsz_blueberry6.jpg by Sofia Livaren from Pixabay
+13. rsz_carrot5.jpg by Varan Kilkarni from Pixabay
+14. rsz_chocolate4.jpg by Kevin Petit from Pixabay
+15. rsz_cinnamon1.jpg by Otto Norin from Pixabay
+16. rustic_white1.jpg by Couleur from Pixabay
+17. rye5.jpg by Plotnik 0l from from Pixabay
+18. sourdough.jpg by Tom Bock1 from Pixabay
+19. wholemeal6.jpg by Couleur from Pixabay
+
+### Other: 
 
 hero-image with cover-text and zoom animation effect was based on the Code Institute love running walkthrough project
 
-flexbox approach from freecodecamp.com and codercoder.com  [https://coder-coder.com/display-divs-side-by-side/#grid-method]
+flexbox approach from [freecodecamp](https://www.freecodecamp.org/) and [codercoder.com](https://coder-coder.com/display-divs-side-by-side/#grid-method)
 
 Contact form adapted from [https://www.w3schools.com/howto/howto_css_contact_form.asp]
 
 
-Flexbox Froggy [https://flexboxfroggy.com/]
+
 
