@@ -1,10 +1,8 @@
 # Milestone 1 Project: Sourdough Bakes
 
-
-
-Pictures to showcase
 ![alt-text](documentation/sourdoughbakes.png)
 # Introduction
+
 This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. 
 
 The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and are of high quality.
@@ -51,7 +49,13 @@ As the website and business owner I want to
 
 # Design of the website
 
-The website is designed as four separate pages to enable the user to easily and precisely locate the information they are looking for without scrolling through a lot of information.  With the navigation links in the header and and back to top arrow featuring on each page users are easily able to navigate their journey through the website. The contact page features a form where the users can request to reserve an item for instore collection. The ethos of the business is natural, organic healthier food and this is reflected in the green and neutral minimalist colour scheme and design.
+The website is designed as four separate pages to enable the user to easily and precisely locate the information they are looking for without scrolling through a lot of information.  
+
+With the navigation links in the header and and back to top arrow featuring on each page users are easily able to navigate their journey through the website. The contact page features a form where the users can request to reserve an item for instore collection. 
+
+The ethos of the business is natural, organic healthier food and this is reflected in the green and neutral minimalist colour scheme and design.
+
+As the business goal is primamrily to showcase the produce available in store the site primarily features images rather than text in order to attract the user towards the produce. 
 
 # Wireframes
 
@@ -107,6 +111,8 @@ This author's own words
 
 #### Home Page
 * The landing page features a hero image with a special zoom effect to catch the user's attention on arriving at the site.  The hero image also features the business name and a slogan to provoke a positive emotional reponse and encourage the user to continue on the site.
+* This page features a short introduction to the business with the address and opening hours prominent as this information is considered a priority to users
+* This page also features a snapshot of the produce with a link to the main Our Bakes page to encourage users to navigate there for more information.
 
 #### About Page
 
@@ -121,12 +127,14 @@ The Our Bakes page features a gallery of the range of products available in rows
 The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store with a mesage in the form. The message box can be enlarged by the user if required, both by mouse and touchscreen.
 
 ### Future Features
+
 * Payment facility
 * Links to recipes
 * links to more detailed information about sourdough
 * offer to subscribe to a newsletter for information about events and offers
 * try to center nav menu on smaller screens
 * center cover-text on main images for all screen sizes
+
 ## Languages
 
 HTML
@@ -134,23 +142,25 @@ CSS
 
 ## Technologies Used
 
-Balsamiq
-Google Fonts
-Fontawesome - for the social media icons and the arrow back to top
-Git
+Balsamiq was used to create the wireframes
+Google Fonts was used for the fonts: Poppins and Lora
+Fontawesome was used for the social media icons and the arrow back to top
+
 
 ## Testing
 
-HTML Validator was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
-CSS Validator was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator.
-Lighthouse in Chrome Developer Tools was used and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
+* HTML Validator was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
+* CSS Validator was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator.
+* Lighthouse in Chrome Developer Tools was used and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
 
+## Languages
 
-### HTML
+* HTML
 
-### CSS
+* CSS
 
 ### Responsiveness
+
 * browsers
 Chrome, Mozilla, Edge
 * screens
@@ -161,6 +171,84 @@ IPad
 
 
 ### User Stories Testing
+
+Each user story was tested as follows:
+
+As a business owner I want to: 
+* create an online presence for our business and grow our local customer base
+* inform existing and new customers about our produce, location, opening hours
+* to provide some introductory information on our USP which is authentic sourdough baked produce
+
+These goals are achieved by the creation of a website with information about the business and the produce, clearly organised into relevant informative and separate pages.
+
+
+* to provide a method of contact for customers to order produce or ask questions
+
+This is achieved by the creation of a contact us form where users can submit their information and a message.
+
+
+As a general user:
+* I want to easily and intuitively navigate throughout the website, easily navigate between pages and return to home screen with one click
+
+![alt-text](documentation/navbar1.png)
+![alt-text](documentation/navbar2.png)
+
+
+
+* easily return to the navigation menu at the top of the page from the bottom of the page
+
+This story is satisfied by the 'back to top' arrow on the bottom right of each page
+
+![alt-text](documentation/arrow.png)
+
+
+* be able to view the website and read all information on all screen sizes.
+
+This story is implemented by the responsiveness to different screen sizes
+
+![alt-text](documentation/response1.png)
+![alt-text](documentation/response2.png)
+
+* view clear images throughout the site especially of the produce
+
+This story is achieved by good quality images throughout the site and in particular the Our Bakes section. 
+
+![alt-text](documentation/produce_images.png)
+
+As a general user of the website/customer I want to 
+* find out the location, opening hours and contact information 
+
+This is implemented by the address block in the footer on each page and a large text block on the home page.
+
+![alt-text](documentation/address_block.png)
+
+* order some produce for collection
+
+This is implemented by the contact us form on the Contact page
+
+![alt-text](documentation/form.png)
+
+
+* find out more about sourdough
+
+This is implemented by the About Sourdough section in the About page.
+
+![alt-text](documentation/about_sourdough.png)
+
+* view all the produce and relevant information about each item
+
+This is implemented by a gallery of produce images in the Our Bakes page.
+
+![alt-text](documentation/gallery.png)
+
+As a new user I want to
+
+* find out what is different about the baked goods from this bakery compared to others
+
+This goal is satisfied by the About section: About Us and About Sourdough.
+
+![alt-text](documentation/about_section.png)
+
 
 ### Manual Testing
 
