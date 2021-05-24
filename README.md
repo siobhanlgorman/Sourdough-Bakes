@@ -49,22 +49,24 @@ As the website and business owner I want to
 * find out what is different about the baked goods from this bakery compared to others
 
 
-# Structure of the website
+# Design of the website
+
+The website is designed as four separate pages to enable the user to easily and precisely locate the information they are looking for without scrolling through a lot of information.  With the navigation links in the header and and back to top arrow featuring on each page users are easily able to navigate their journey through the website. The contact page features a form where the users can request to reserve an item for instore collection. The ethos of the business is natural, organic healthier food and this is reflected in the green and neutral minimalist colour scheme and design.
 
 # Wireframes
+
+The initial wireframes from the design phase can be seen here. All design features were implemented.
+
 [https://github.com/siobhanlgorman/Sourdough-Bakes/tree/master/wireframes]
 
-# Surface
 
-## Fonts
+## Fonts and Colour Scheme
 
-Body Lora, sans serif
-Headings and logo Poppins sans serif
+The fonts chosen were Poppins, sans serif for the Headings and logo and Lora for the body. They were chosen for the rounded and cosy feel they inspire in the viewer in this designer's opinion. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #3a3a3a in the text boxes overlaying the green background for better contraast and visibility.
 
 ## Colours
     
-* The colour theme is based around the colour of the business logo which is color: #5b8030; dark green. The other green shades on the site and the 
-are chosen to  and to conjure up the ehtos of the business which is natural, organic, healthy food - so green shades I kept the background neutral white to keep contrast high and the charcoal text font colour is less harsh to the users' eyes than black.
+The colour theme is based around the colour of the business logo which is a green color: #5b8030. The other green shades on the site and the other green shades used were chosen to tone with this and keep to the overall theme of natural colours. The colour scheme is by choice minimalist, bright and neutral in keeping with the overall ethos of the business (natural, clean, organic, healthier food). The background is neutral white to keep contrast high enough with the green. 
 
 cursor hover colour green #8bc34a
 underline to show active page on menu grey #3a3a3a
@@ -86,40 +88,41 @@ This author's own words
 ### Existing Features
 
 #### Navigation Bar
-* Visible on all pages at top of menu
-* left side of navigation bar features the business logo with link to home page from every page on the site as this is expected by the user
-* right side of navigation bar features links to each of the four pages of the site: Home, About, Our Bakes and Contact Us. It is positioned on the right as this is where the user expects it to be. 
-* logo slides into row above navigation menu as screen size reduces
-* the active link underlines according to which page is active on the website and the when the cursor hovers the background colour of the link turns green in keeping with the colour scheme of the site.
+* The navigation bar is visible on all pages. 
+* The left side of navigation bar features the business logo which links to the home page from every page on the site as this is expected by the user.
+* Links to each of the four pages of the site: Home, About, Our Bakes and Contact Us are conventionally positioned on the right as expected by the user. The page link underlines when the page active on the website to indicate to the user where they are on the site and when the cursor hovers over a page link the background colour of the link turns green in keeping with the colour scheme of the site and provides easy navigation for the user.
+
 
 #### Footer
-* visible on all pages
+* The footer is visible on all pages
 * left side has the business address and opening hours in a column, with logo which links to home page
 * lined in a horizontal row from the right are four icons with links to the map address of the business and three social media accounts.
+* the footer is reponsive with the address block sliding above the social media icons in the centre of the footer as the screen size reduces
 
 #### Back to Top Arrow
-* Each page features an arrow at the bottom right which links back to the top of the page.
+* Each page features an arrow at the bottom right which links back to the top of the page and is coloured green in keeping with the colour theme of the website.
 
-The site is organised into four separate pages home about our bakes and contact so that the user can quickly and easily find the content they are looking for without scrolling through everything.
+#### Hero Image
+* Each page features a hero image with text overlay indicating the page title.
 
-#### Home page
+#### Home Page
+* The landing page features a hero image with a special zoom effect to catch the user's attention on arriving at the site.  The hero image also features the business name and a slogan to provoke a positive emotional reponse and encourage the user to continue on the site.
 
-Hero Image with zoom effect
+#### About Page
 
-#### About
+The About page has two sections, one with general information about the business and the other providing a short introduction to sourdough. The information is kept concise with short paragraphs so as not to overload the user with text and information but enough to answer initial questions and spark interest in the business and the products.
 
-This pages has two sections, one about the business and the other providing a short introduction to sourdough.
 #### Our Bakes
 
-Images of products in rows of two which collapse into a column of one at mobile ohone screen size
+The Our Bakes page features a gallery of the range of products available in rows of two which collapse into a column of one at mobile phone screen size. The page also features a direct contact us here link which links to the form for users who would like further information on the products or to request an order. 
 
 #### Contact
 
-form for user to enter name email and a message, all required. And a submit button
+The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store with a mesage in the form. The message box can be enlarged by the user if required, both by mouse and touchscreen.
 
 ### Future Features
-* payment facility
-* links to recipes
+* Payment facility
+* Links to recipes
 * links to more detailed information about sourdough
 * offer to subscribe to a newsletter for information about events and offers
 * try to center nav menu on smaller screens
