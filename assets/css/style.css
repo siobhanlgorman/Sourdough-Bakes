@@ -109,7 +109,12 @@ h3 {
     right: 30px;
     position: absolute;
 
+}
 
+/* change headings over green in text boxes to black for contrast */
+
+.covertext h2 {
+    color: #252525;
 }
 
 /* hero image */

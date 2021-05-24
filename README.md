@@ -62,7 +62,7 @@ The initial wireframes from the design phase can be seen here. All design featur
 
 ## Fonts and Colour Scheme
 
-The fonts chosen were Poppins, sans serif for the Headings and logo and Lora for the body. They were chosen for the rounded and cosy feel they inspire in the viewer in this designer's opinion. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #3a3a3a in the text boxes overlaying the green background for better contraast and visibility.
+The fonts chosen were Poppins, sans serif for the Headings and logo and Lora for the body. They were chosen for the rounded and cosy feel they inspire in the viewer in this designer's opinion. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #252525 in the text boxes overlaying the green background for better contrast and visibility.
 
 ## Colours
     
