@@ -137,6 +137,8 @@ The contact page features a form for user to enter name, email and a message, al
 
 * As the product range expands a direct link from the home page snapshot of products section to each individial section on the Our Bakes page would improve user experience
 
+
+
 # Languages
 
 HTML (Hypertext Markup Language) was used to design the website and CSS (Cascading Style Sheets) to style the HTML code.
@@ -154,6 +156,8 @@ Google maps was used to provide a map link.
 
 
 # Testing
+
+## Validation
 
 * HTML Validator was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
 * CSS Validator was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator.
@@ -303,8 +307,8 @@ It was difficult to get he navigation menu display to display responsively for a
 
 
 ## Unfixed Bugs
-* I would like to center the cover text on the image at the top of all pages to be centered on all screen sizes but did not have any more time to resolve this.
-* I would also like to centre the navigation menu for the small screens and the logo but did not have more time to spend on this.
+
+All bugs identified were fixed
 
 ## Credits
 
