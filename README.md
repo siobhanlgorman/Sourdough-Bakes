@@ -274,16 +274,27 @@ Difficulty getting nav bar to display correctly in one line on iphone. Variously
 
 ### Credits
 
+Photos:
 
-photos granary.jpg from Alexa (Pixabay), 
-five seed seeded rustic from Couleur (Pixabay)
-rye
-mill Mark Croemers
-blueberry Sofia Livaren
-banana Martina Rogusci
-chocolate Kevin Petit
-cinnamon Otto Norin
-carrot Varan Kilkarni
+bakery.jpg by Pexels from Pixabay
+dough.jpg by Skitterphoto from Pixabay
+granary2.jpg by Alexa from Pixabay 
+five_seed3.jpg by Couleur from Pixabay
+hero-image1.jpg by Aurelio Fox RJ from Pixabay
+loaves.jpg by Michelle Still Creates from Pixabay
+mill_loaf4.jpg by Mark Croemers from Pixabay
+our_bread.jpg by Renee Olmsted from Pixabay
+our_pastries.jpg by Photowill from Pixabay
+rsz_1lemon.jpg by Photowill from Pixabay
+rsz_banana3.jpg by Martina Rogusci from Pixabay
+rsz_blueberry6.jpg by Sofia Livaren from Pixabay
+rsz_carrot5.jpg by Varan Kilkarni from Pixabay
+rsz_chocolate4.jpg by Kevin Petit from Pixabay
+rsz_cinnamon1.jpg by Otto Norin from Pixabay
+rustic_white1.jpg by Couleur from Pixabay
+rye5.jpg by Plotnik 0l from from Pixabay
+sourdough.jpg by Tom Bock1 from Pixabay
+wholemeal6.jpg by Couleur from Pixabay
 
 hero-image with cover-text and zoom effect based on love running walkthrough project
 
