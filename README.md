@@ -1,16 +1,17 @@
 # Milestone 1 Project: Sourdough Bakes
 
 ![alt-text](documentation/sourdoughbakes.png)
+
 # Introduction
 
-This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. 
+This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. The purpose of the website is to establish an online presence for the bakery to help increase the customer base.
 
-The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and are of high quality.
+The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and are of high quality. The website will showcase the products available to the user and provide the essential information necessary to find the shop and be able to purchase.
 
-# UX
+# User Goals and Stories
 
 ## Website Owner Business Goals
-As the site owner of this bakery I want
+As the website owner and owner of the bakery I want
 
 * to deliver clear and easy to read information about my produce, the types offered and their price
 * to encourage customers to visit the bakery to buy produce and offer them the opportunity to order and collect in store.
@@ -57,7 +58,7 @@ The ethos of the business is natural, organic healthier food and this is reflect
 
 As the business goal is primamrily to showcase the produce available in store the site primarily features images rather than text in order to attract the user towards the produce. 
 
-# Wireframes
+## Wireframes
 
 The initial wireframes from the design phase can be seen here. All design features were implemented.
 
@@ -80,97 +81,92 @@ underline to show active page on menu grey #3a3a3a
 
 ## Images
 
-Taken from Pixabay and resized for the purpose of this website
-Styled with curved borders which is modern and gives a softer effect.
+Images were dowloaded from Pixabay and resized for the purpose of this website. The owners are credited in the Credits section.
+The Images are styled with curved borders which is modern and gives a softer effect.
 
 
 ## Text
-This author's own words
+All text is written by the author.
 
-## Features
+# Features
 
-### Existing Features
+## Existing Features
 
-#### Navigation Bar
+### Navigation Bar
 * The navigation bar is visible on all pages. 
 * The left side of navigation bar features the business logo which links to the home page from every page on the site as this is expected by the user.
-* Links to each of the four pages of the site: Home, About, Our Bakes and Contact Us are conventionally positioned on the right as expected by the user. The page link underlines when the page active on the website to indicate to the user where they are on the site and when the cursor hovers over a page link the background colour of the link turns green in keeping with the colour scheme of the site and provides easy navigation for the user.
+* Links to each of the four pages of the site: Home, About, Our Bakes and Contact Us are conventionally positioned on the right as expected by the user. 
+* The page link underlines when the page active on the website to indicate to the user where they are on the site.
+* When the mouse hovers over a page link the background colour of the link turns green in keeping with the colour scheme of the site and provides easy navigation for the user.
 
 
-#### Footer
+### Footer
 * The footer is visible on all pages
 * left side has the business address and opening hours in a column, with logo which links to home page
 * lined in a horizontal row from the right are four icons with links to the map address of the business and three social media accounts.
 * the footer is reponsive with the address block sliding above the social media icons in the centre of the footer as the screen size reduces
 
-#### Back to Top Arrow
+### Back to Top Arrow
 * Each page features an arrow at the bottom right which links back to the top of the page and is coloured green in keeping with the colour theme of the website.
 
-#### Hero Image
+### Hero Image
 * Each page features a hero image with text overlay indicating the page title.
 
-#### Home Page
+### Home Page
 * The landing page features a hero image with a special zoom effect to catch the user's attention on arriving at the site.  The hero image also features the business name and a slogan to provoke a positive emotional reponse and encourage the user to continue on the site.
 * This page features a short introduction to the business with the address and opening hours prominent as this information is considered a priority to users
 * This page also features a snapshot of the produce with a link to the main Our Bakes page to encourage users to navigate there for more information.
 
-#### About Page
+### About Page
 
 The About page has two sections, one with general information about the business and the other providing a short introduction to sourdough. The information is kept concise with short paragraphs so as not to overload the user with text and information but enough to answer initial questions and spark interest in the business and the products.
 
-#### Our Bakes
+### Our Bakes
 
 The Our Bakes page features a gallery of the range of products available in rows of two which collapse into a column of one at mobile phone screen size. The page also features a direct contact us here link which links to the form for users who would like further information on the products or to request an order. 
 
-#### Contact
+### Contact Us
 
 The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store with a mesage in the form. The message box can be enlarged by the user if required, both by mouse and touchscreen.
 
-### Future Features
+## Future Features
 
-* Payment facility
-* Links to recipes
-* links to more detailed information about sourdough
-* offer to subscribe to a newsletter for information about events and offers
-* try to center nav menu on smaller screens
-* center cover-text on main images for all screen sizes
+* A payment facility for users to order and pay for their purchase
+* Links to recipes and links to more detailed information about sourdough
+* Checkbox for offer to subscribe to a newsletter for information about events and offers
 
-## Languages
+* As the product range expands a direct link from the home page snapshot of products section to each individial section on the Our Bakes page would improve user experience
 
-HTML
-CSS
+# Languages
 
-## Technologies Used
-
-Balsamiq was used to create the wireframes
-Google Fonts was used for the fonts: Poppins and Lora
-Fontawesome was used for the social media icons and the arrow back to top
+HTML (Hypertext Markup Language) was used to design the website and CSS (Cascading Style Sheets) to style the HTML code.
 
 
-## Testing
+# Technologies Used
+
+Balsamiq was used to create the wireframes.
+
+Google Fonts was used for the fonts: Poppins and Lora.
+
+Fontawesome was used for the social media icons, map link and the arrow back to top.
+
+Google maps was used to provide a map link.
+
+
+# Testing
 
 * HTML Validator was run at several points during the project and any small errors identified were fixed. At the final stage no errors or warnings were found
 * CSS Validator was run several times during the project and syntax errors were corrected. At the time of submission the css code succesfully passed the validator.
 * Lighthouse in Chrome Developer Tools was used and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
 
-## Languages
+## Responsiveness
 
-* HTML
-
-* CSS
-
-### Responsiveness
-
-* browsers
-Chrome, Mozilla, Edge
-* screens
-Iphone
-Moto G8 plus
-Laptop 15"
-IPad
+The website was tested on Chrome, Mozilla, Edge and Safari browsers with no problems found.
+The website was tested on numerous sized screens including Iphones 8 and X, Moto G8 plus, 15" laptop, 24" screen and Ipad and was found to respond to all sizes.
+Chrome development tools was used throughout the design process to check responsiveness and breakpoints and adjustments were made.
 
 
-### User Stories Testing
+## User Stories Testing
 
 Each user story was tested as follows:
 
@@ -218,9 +214,12 @@ This story is achieved by good quality images throughout the site and in particu
 As a general user of the website/customer I want to 
 * find out the location, opening hours and contact information 
 
-This is implemented by the address block in the footer on each page and a large text block on the home page.
+This is implemented by the address block and map link in the footer on each page and a large text block on the home page. 
 
 ![alt-text](documentation/address_block.png)
+
+![alt-text](documentation/map_link.png)
+
 
 * order some produce for collection
 
@@ -250,12 +249,41 @@ This goal is satisfied by the About section: About Us and About Sourdough.
 ![alt-text](documentation/about_section.png)
 
 
-### Manual Testing
+## Manual Testing
 
 All links on all pages were checked
 Form was submitted successfully to Code Institute form dump
 
-### Deployment
+The following links were all tested and passed:
+* Navigation Bar: 
+The logo links to the home page
+The menu links to each of the four pages of the site: Home, About, Our Bakes and Contact Us
+The active page link underlines when the page active on the website
+The mouse hover action turns green over the menu page options
+The navigation menu responds to decreasing screen size by moving under the logo and logo remains at the top
+
+
+* Footer:
+
+The business logo in the address block links to the home page.
+The social media icons link to the three relevant social media accounts
+The map link opens the location of the business in google maps
+
+The footer is reponsive with the address block moves above the social media icons as the screen size reduces
+
+* Back to Top Arrow
+The arrow functions correctly linking back to the top 
+
+* Hero Image landing page zoom
+The zoom animation functions correctly on all screens.
+
+* Home page links: the "View our breads" link links correctly to the Our Bakes page
+* The two View Our Bakes links on the About Us page link correctly to the Our Bakes page.
+* The Our Bakes page link to contact us here form page functions correctly
+* The Contact Us form submits correctly to Code Institute form dump and will not submit without all fields beinig completed. The message box can be enlarged by the user on all screens
+
+
+## Deployment
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 1. Log in to Github
@@ -268,11 +296,17 @@ The link to the live website is here:
 [https://siobhanlgorman.github.io/Sourdough-Bakes/]
  
 
-### Bugs
+## Bugs
+The large image on every page were not zoomed to the best position on small screens. This image position was changed in media queries
 
-Difficulty getting nav bar to display correctly in one line on iphone. Variously changed font size.
+It was difficult to get he navigation menu display to display responsively for all mobile phone screens. Although Chrome developer tools indicated that the menu was responsive it proved not to display correctly on some iPhones. The font size was adjusted in media queries.
 
-### Credits
+
+## Unfixed Bugs
+* I would like to center the cover text on the image at the top of all pages to be centered on all screen sizes but did not have any more time to resolve this.
+* I would also like to centre the navigation menu for the small screens and the logo but did not have more time to spend on this.
+
+## Credits
 
 Photos:
 
@@ -296,15 +330,12 @@ rye5.jpg by Plotnik 0l from from Pixabay
 sourdough.jpg by Tom Bock1 from Pixabay
 wholemeal6.jpg by Couleur from Pixabay
 
-hero-image with cover-text and zoom effect based on love running walkthrough project
+hero-image with cover-text and zoom animation effect was based on the Code Institute love running walkthrough project
 
-flexbox approach various sources
+flexbox approach from freecodecamp.com and codercoder.com  [https://coder-coder.com/display-divs-side-by-side/#grid-method]
 
-contact form adapted from [https://www.w3schools.com/howto/howto_css_contact_form.asp]
+Contact form adapted from [https://www.w3schools.com/howto/howto_css_contact_form.asp]
 
-stackoverflow
-W3 schools
-freecodecamp - flexbox
-Flexbox Froggy
-codercoder.com [https://coder-coder.com/display-divs-side-by-side/#grid-method]
-font awesome for the icons social media and arrow
+
+Flexbox Froggy [https://flexboxfroggy.com/]
+
