@@ -2,6 +2,52 @@
 
 ![alt-text](documentation/sourdoughbakes.png)
 
+
+# Table Of Contents
+
+
+- [Milestone 1 Project: Sourdough Bakes](#milestone-1-project--sourdough-bakes)
+- [Introduction](#introduction)
+- [User Goals and Stories](#user-goals-and-stories)
+  * [Website Owner Business Goals](#website-owner-business-goals)
+  * [User Goals](#user-goals)
+  * [User Stories](#user-stories)
+    + [As a business owner](#as-a-business-owner)
+    + [As a general user of the website/customer I want to](#as-a-general-user-of-the-website-customer-i-want-to)
+    + [As a new user I want to](#as-a-new-user-i-want-to)
+- [Design of the website](#design-of-the-website)
+  * [Wireframes](#wireframes)
+  * [Fonts and Colour Scheme](#fonts-and-colour-scheme)
+  * [Colours](#colours)
+  * [Images](#images)
+  * [Text](#text)
+- [Features](#features)
+  * [Existing Features](#existing-features)
+    + [Navigation Bar](#navigation-bar)
+    + [Footer](#footer)
+    + [Back to Top Arrow](#back-to-top-arrow)
+    + [Hero Image](#hero-image)
+    + [Home Page](#home-page)
+    + [About Page](#about-page)
+    + [Our Bakes](#our-bakes)
+    + [Contact Us](#contact-us)
+  * [Future Features](#future-features)
+- [Languages](#languages)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+  * [Validation](#validation)
+  * [Responsiveness](#responsiveness)
+  * [User Stories Testing](#user-stories-testing)
+  * [Manual Testing](#manual-testing)
+  * [Deployment](#deployment)
+  * [Bugs](#bugs)
+  * [Unfixed Bugs](#unfixed-bugs)
+  * [Credits](#credits)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 # Introduction
 
 This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. The purpose of the website is to establish an online presence for the bakery to help increase the customer base.
@@ -52,11 +98,14 @@ As the website and business owner I want to
 
 The website is designed as four separate pages to enable the user to easily and precisely locate the information they are looking for without scrolling through a lot of information.  
 
+From each page, the user can navigate directly to the produce page as it is a priority that the user can easily and quickly access this information.
+
 With the navigation links in the header and and back to top arrow featuring on each page users are easily able to navigate their journey through the website. The contact page features a form where the users can request to reserve an item for instore collection. 
 
-The ethos of the business is natural, organic healthier food and this is reflected in the green and neutral minimalist colour scheme and design.
+The ethos of the business is natural, organic healthier food and this is reflected in the green and neutral minimalist colour scheme and design. The design is kept clean and simple.
 
 As the business goal is primamrily to showcase the produce available in store the site primarily features images rather than text in order to attract the user towards the produce. 
+
 
 ## Wireframes
 
@@ -67,16 +116,13 @@ The initial wireframes from the design phase can be seen here. All design featur
 
 ## Fonts and Colour Scheme
 
-The fonts chosen were Poppins, sans serif for the Headings and logo and Lora for the body. They were chosen for the rounded and cosy feel they inspire in the viewer in this designer's opinion. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #252525 in the text boxes overlaying the green background for better contrast and visibility.
+The fonts chosen were Poppins, sans serif for the Headings and logo and Lora for the body. They were chosen for the rounded and cosy feel they inspire in the viewer in this designer's opinion. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #252525 in the text boxes overlaying the green background for better contrast and visibility against the green and the image.
 
 ## Colours
     
 The colour theme is based around the colour of the business logo which is a green color: #5b8030. The other green shades on the site and the other green shades used were chosen to tone with this and keep to the overall theme of natural colours. The colour scheme is by choice minimalist, bright and neutral in keeping with the overall ethos of the business (natural, clean, organic, healthier food). The background is neutral white to keep contrast high enough with the green. 
 
-cursor hover colour green #8bc34a
-underline to show active page on menu grey #3a3a3a
-    headings colour #252525 less harsh than black, also used for text on cover of hero image as #3a3a3a was a little too faint.
-    body font color: #3a3a3a;
+
 
 
 ## Images
