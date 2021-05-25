@@ -357,9 +357,11 @@ The link to the live website is here:
  
 
 ## Bugs
-The large image on every page were not zoomed to the best position on small screens. This image position was changed in media queries
+The large images on every page were not zoomed to the best position on small screens. This image position was changed in media queries
 
-It was difficult to get he navigation menu display to display responsively for all mobile phone screens. Although Chrome developer tools indicated that the menu was responsive it proved not to display correctly on some iPhones. The font size was adjusted in media queries.
+It was difficult to get he navigation menu display to display responsively for all mobile phone screens. Although Chrome developer tools indicated that the menu was responsive it proved not to display correctly on some iPhones. Adjustments were made in media queries.
+
+Sometimes what was displayed on the responsiveness testing in Chrome development tools was not exactly as appeared on actual devices so changes were always checked on actual devices for final approval.
 
 
 ## Unfixed Bugs

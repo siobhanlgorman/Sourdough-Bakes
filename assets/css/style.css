@@ -655,7 +655,7 @@ textarea {
         text-align: center;
     }
 
-    /* recentre banner images for better image on small screens*/
+    /* recentre banner images on all pages for better image on small screens*/
 
     #hero-image {
         height: 600px;
