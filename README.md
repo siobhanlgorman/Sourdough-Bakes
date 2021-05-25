@@ -47,7 +47,7 @@
 
 # Introduction
 
-This is a website for a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. The purpose of the website is to establish an online presence for the bakery with the goal of increasing the customer base and providing information for customers.
+This is a website for Sourdough Bakes, a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. The purpose of the website is to establish an online presence for the bakery with the goal of increasing the customer base and providing information for customers.
 
 The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and of high quality. The website showcases the products available to the user and provides the information necessary to make a purchase from the bakery.
 
@@ -174,7 +174,7 @@ The About page has two sections, one with general information about the business
 
 The Our Bakes page features a gallery of the range of products available in rows of three which collapse into two for a tablet and a column of one at mobile phone screen size. The page also features a direct 'contact us here' link which links to the form for users who would like further information on the products or to request an order. 
 
-### Contact Us
+### Contact
 
 The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store by sending a message in the form. The message box can be enlarged by the user if required, both by mouse and on a touchscreen.
 
@@ -226,21 +226,21 @@ Each user story was tested as follows:
 As a business owner I want to: 
 * create an online presence for our business and grow our local customer base
 * inform existing and new customers about our produce, location, opening hours
-* to provide some introductory information on our USP which is authentic sourdough baked produce
+* provide some introductory information on our USP which is authentic sourdough baked produce
 
 These goals are achieved by the creation of a website with information about the business and the produce, clearly organised into relevant informative and separate pages.
 
 ![alt-text](documentation/response1.png)
 
-* to provide a method of contact for customers to order produce or ask questions
+* provide a method of contact for customers to order produce or ask questions
 
 This is achieved by the creation of a contact form where users can submit their information and a message.
 
 ![alt-text](documentation/form.png)
 
 
-As a general user:
-* I want to easily and intuitively navigate throughout the website, easily navigate between pages and return to home screen with one click. This is implemented with the intuitive navigation menu placed conventionally at the top right.
+As a general user I want to:
+* easily and intuitively navigate throughout the website, easily navigate between pages and return to home screen with one click. This is implemented with the intuitive navigation menu placed conventionally at the top right.
 
 ![alt-text](documentation/navbar1.png)
 ![alt-text](documentation/navbar2.png)
@@ -269,7 +269,8 @@ This story is achieved by good quality images throughout the site and in particu
 ![alt-text](documentation/produce_images.png)
 
 
-As a general user of the website/customer I want to 
+As a general user of the website/customer I want to:
+
 * find out the location, opening hours and contact information 
 
 This is implemented by the address block and map link in the footer on each page and a large text block on the home page. 
