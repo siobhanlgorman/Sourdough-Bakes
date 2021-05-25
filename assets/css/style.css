@@ -673,11 +673,11 @@ textarea {
         background: url(../images/bakery.jpg) no-repeat center bottom;
     }
 
-    #loaves-image {
+    /* #loaves-image {
         height: 600px;
         width: 100%;
         background: url(../images/loaves.jpg) no-repeat center top;
-    }
+    } */
 
     #dough-image {
         height: 600px;
