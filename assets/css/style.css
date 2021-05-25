@@ -14,7 +14,9 @@ body {
     background-color: white;
 }
 
-
+p {
+    font-size: 1.25em;
+}
 
 /* headings and logo */
 
@@ -425,12 +427,14 @@ h3 {
     text-align: center;
     margin: 2em;
     padding: 1em;
-    line-height: 1em;
+    line-height: 1.25em;
+    
 
 }
 
 .our-bread-text p {
     padding: 1em;
+    line-height: 1.25em;
 
 }
 

@@ -358,8 +358,9 @@ The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 4. In Settings scroll down to GitHub pages which opens in a new page.
 5. From the source section drop-down menu, select the Master Branch
 6. Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
+
 The link to the live website is here:
-[https://siobhanlgorman.github.io/Sourdough-Bakes/]
+[Sourdough Bakes](https://siobhanlgorman.github.io/Sourdough-Bakes/)
  
 
 ## Bugs
@@ -406,7 +407,7 @@ hero-image with cover-text and zoom animation effect was based on the Code Insti
 
 flexbox approach from [freecodecamp](https://www.freecodecamp.org/) and [codercoder.com](https://coder-coder.com/display-divs-side-by-side/#grid-method)
 
-Contact form adapted from [https://www.w3schools.com/howto/howto_css_contact_form.asp]
+Contact form adapted from [w3 schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
 
 
