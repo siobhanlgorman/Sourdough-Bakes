@@ -309,40 +309,43 @@ This goal is satisfied by the About section: About Us and About Sourdough.
 
 ## Manual Testing
 
-All links on all pages were checked
-Form was submitted successfully to Code Institute form dump
+All links on all pages were checked and the form was submitted successfully to Code Institute form dump.
 
-The following links were all tested and passed:
+The following links were all manually tested and passed:
 
 * Navigation Bar: 
-The logo links to the home page
-The menu links to each of the four pages of the site: Home, About, Our Bakes and Contact Us
-The active page link underlines when the page active on the website
-The mouse hover action turns green over the menu page options
-The navigation menu responds to decreasing screen size by moving under the logo and logo remains at the top
+- The sourdough bakes logo links to the home page
+- The menu links to each of the four pages of the site: Home, About, Our Bakes and Contact Us
+- The active page link underlines when the page active on the website
+- The mouse hover action turns green over the menu page options
+- The navigation menu responds to decreasing screen size by moving under the logo and logo remains at the top
 
 
 * Footer:
-
-The business logo in the address block links to the home page.
-The social media icons link to the three relevant social media accounts
-The map link opens the location of the business in google maps
-
-The footer is reponsive with the address block moving above the social media icons as the screen size reduces
+- The sourdough bakes business logo in the address block links to the home page.
+- The social media icons link to the three relevant social media accounts
+- The map link opens the location of the business in google maps
+- The footer is responsive with the address block moving above the social media icons as the screen size reduces
 
 * Back to Top Arrow
-The arrow functions correctly linking back to the top 
+- The arrow functions correctly linking back to the top 
 
 * Hero Image landing page zoom
-The zoom animation functions correctly on all screens.
+- The zoom animation functions correctly on all screens.
 
-* Home page links: the "View our bakes" link to the Our Bakes page functions correctly
+* Home page links: 
+- The "View our bakes" link to the Our Bakes page functions correctly
 
-* About page links: The two View Our Bakes links on the About page link correctly to the Our Bakes page.
+* About page links: 
+- The two View Our Bakes links on the About page link correctly to the Our Bakes page.
 
-* Our Bakes page link to contact us here form page functions correctly
+* Our Bakes page 
+- The link to contact us here form page functions correctly
 
-* The Contact Us form submits correctly to Code Institute form dump with name, email and message all recorded as submitted. The form will not submit without all fields beinig completed. The message box can be enlarged by the user on all screens.
+* Contact page 
+- The Contact Us form submits correctly to Code Institute form dump with name, email and message all recorded as submitted. 
+- The form will not submit without all fields being completed. 
+- The message box can be enlarged by the user on all screens.
 
 
 ## Deployment
