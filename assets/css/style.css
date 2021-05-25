@@ -568,9 +568,10 @@ textarea {
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
 
-.our_bakes1, .our_sweet_bakes {
-    width: 33%;
-}
+    .our_bakes1,
+    .our_sweet_bakes {
+        width: 33%;
+    }
 
 
     footer {
