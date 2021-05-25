@@ -57,7 +57,7 @@ The website targets people who want to purchase authentic sourdough baked goods 
 As the website owner and owner of the bakery I want
 
 * to deliver clear and easy to read information about my produce, the types offered and their price
-* to encourage customers to visit the bakery to buy produce and offer them the opportunity to order and collect in store.
+* to encourage customers to visit the bakery to buy produce and offer them the opportunity to order online and collect in store.
 * to provide background information about why my produce is unique, healthy and good quality
 
 ## User Goals
@@ -95,7 +95,7 @@ As the website and business owner I want to
 
 The website is designed as four separate pages to enable the user to easily and precisely locate the information they are looking for without scrolling through a lot of information.  
 
-From each page, the user can navigate directly to the produce page as it is a priority that the user can easily and quickly access this information.
+The priorities on the site are the information about the location and the produce so the address is visible on each page and prominent on the landing page. Also from each of the three information pages, the user can navigate directly to the produce page via clearly labelled links. 
 
 With the navigation links in the header and and back to top arrow featuring on each page users are easily able to navigate to the page they want next. The user flow differs according to the specific purpose of the visit to the site. For example users may want to check the produce or order produce or find out the location and opening hours or a combination of these. So users need to be able to access each page of information separately and easily. 
 
@@ -214,6 +214,7 @@ HTML (Hypertext Markup Language) was used to design the basic website and CSS (C
 ## Responsiveness
 
 The website was tested on Chrome, Mozilla, Edge and Safari browsers with no problems found.
+
 The website was tested on numerous sized screens including Iphones 8 and X, Moto G8 plus, 15" laptop, 24" screen and Ipad and was found to respond as expected to all sizes.
 Chrome development tools was used throughout the design process to check responsiveness and breakpoints and adjustments were made.
 
@@ -245,7 +246,6 @@ As a general user:
 ![alt-text](documentation/navbar2.png)
 
 
-
 * easily return to the navigation menu at the top of the page from the bottom of the page
 
 This story is satisfied by the 'back to top' arrow on the bottom right of each page
@@ -260,6 +260,8 @@ This story is implemented by the responsiveness to different screen sizes
 
 ![alt-text](documentation/response3.png)
 ![alt-text](documentation/response4.png)
+
+
 * view clear images throughout the site especially of the produce
 
 This story is achieved by good quality images throughout the site and in particular the Our Bakes section. 
