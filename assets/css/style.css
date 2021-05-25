@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     border: none;
-
 }
 
 body {
@@ -28,7 +27,6 @@ h3 {
 
 }
 
-
 #logo {
     float: left;
     font-size: 150%;
@@ -45,8 +43,6 @@ h3 {
     font-size: 1.5vw;
     float: right;
     margin-left: 10px;
-
-
 }
 
 #menu,
@@ -61,7 +57,6 @@ h3 {
     list-style-type: none;
     margin: 0 2vw;
 }
-
 
 #menu a {
     text-decoration: none;
@@ -87,7 +82,6 @@ h3 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 
 }
@@ -121,12 +115,10 @@ h3 {
 
 /* hero image */
 
-
 #hero-image {
     height: 600px;
     width: 100%;
     background: url(../images/hero-image1.jpg) no-repeat center center;
-
 
     /* animates zoom on loading page */
 
@@ -146,31 +138,24 @@ h3 {
     to {
         transform: scale(1.1);
     }
-
 }
-
 
 /* welcome section on home page */
 
 #welcome-text {
     box-sizing: border-box;
     font-size: 100%;
-
     border: 2px solid #5b8030;
     border-radius: 20px;
-
-
     text-align: center;
-
     width: 90vw;
-    height: 500px;
+    height: 520px;
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
     padding-top: 40px;
     padding-left: 10px;
-
 
 }
 
@@ -179,7 +164,6 @@ h3 {
     padding-bottom: 20px;
 
 }
-
 
 #review-text {
     box-sizing: border-box;
@@ -208,8 +192,6 @@ h3 {
     padding-bottom: 20px;
 }
 
-
-
 /* snapshot of products section */
 
 #snapshot_section {
@@ -219,13 +201,10 @@ h3 {
     justify-content: center;
 
     text-align: center;
-
-
 }
 
 .snapshot {
     margin: 4%;
-
 }
 
 /* snapshot images */
@@ -249,7 +228,6 @@ h3 {
     color: #5b8030;
     font-size: 100%;
     text-align: center;
-
 }
 
 /* back to top arrow */
@@ -264,7 +242,6 @@ h3 {
     text-align: right;
     margin-right: 10px;
     color: #5b8030;
-
 }
 
 /* footer */
@@ -272,20 +249,13 @@ h3 {
 footer {
     display: flex;
     flex-direction: row;
-
     height: 150px;
     padding-top: 15px;
     margin-top: 10px;
-
     border-top: solid 4px rgb(91, 128, 48, .5);
-
 }
 
-
-
-
 #address-block {
-
     width: 20%;
     padding-top: 15px;
     text-align: center;
@@ -293,31 +263,24 @@ footer {
     font-size: 75%;
 }
 
-
 #address-block>a {
     text-decoration: none;
 }
 
 #footer_logo h3 {
     color: #5b8030;
-
-
 }
-
 
 /*social media icons*/
 
 .social-networks {
     width: 80%;
     text-align: center;
-
-
 }
 
 .social-networks>li {
     display: inline;
     padding-top: 5%;
-
 }
 
 .social-networks i {
@@ -339,14 +302,11 @@ footer {
     position: relative;
 }
 
-
-
 #bakery-image {
     height: 600px;
     width: 100%;
     background: url(../images/bakery.jpg) no-repeat center center;
 }
-
 
 /* About Sourdough section image */
 
@@ -370,7 +330,6 @@ article a {
 }
 
 .about-text {
-
     width: 75%;
     font-size: 100%;
     margin: auto;
@@ -379,7 +338,6 @@ article a {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-
 }
 
 .about-text p {
@@ -392,15 +350,12 @@ h3 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-
-
 }
 
 /* Our Bakes page */
 
 .our_bakes h3 {
     color: #5b8030;
-
 }
 
 /* main image */
@@ -428,24 +383,18 @@ h3 {
     margin: 2em;
     padding: 1em;
     line-height: 1.25em;
-    
-
 }
 
 .our-bread-text p {
     padding: 1em;
     line-height: 1.25em;
-
 }
 
 .our_bakes1>img {
-
     border-radius: 20px;
     text-align: center;
     width: 100%;
     height: auto;
-
-
 }
 
 .our_products {
@@ -454,28 +403,21 @@ h3 {
     flex-wrap: wrap;
     width: 100%;
     justify-content: space-evenly;
-
 }
 
 .our_bakes1 {
-
-
     align-items: center;
     text-align: center;
     padding: 2%;
-
     width: 25%;
-
 }
 
 
 .our_sweet_bakes>img {
-
     border-radius: 20px;
     text-align: center;
     width: 100%;
     height: auto;
-
 }
 
 .our_sweet_bakes {
@@ -483,9 +425,7 @@ h3 {
     align-items: center;
     text-align: center;
     padding: 2%;
-
     width: 25%;
-
 }
 
 /* link to contact us form page */
@@ -493,7 +433,6 @@ h3 {
 #contact_us_link {
     text-align: center;
 }
-
 
 #contact_us_link a {
     color: #5b8030;
@@ -517,9 +456,7 @@ h3 {
     background: url(../images/dough.jpg) no-repeat center center;
 }
 
-
 /* Form adapted from w3 schools contact form*/
-
 
 .text-input,
 textarea {
@@ -533,14 +470,12 @@ textarea {
     resize: vertical
 }
 
-
 .submit-button {
     background-color: gray;
     color: whitesmoke;
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
-
 }
 
 .submit-button:hover {
@@ -554,8 +489,6 @@ textarea {
     padding: 20px;
     width: 50%;
     margin: 10% auto;
-
-
 }
 
 /* Media Queries */
@@ -563,7 +496,6 @@ textarea {
 /* For large to medium size screens */
 
 @media screen and (max-width: 1200px) {
-
     #menu {
         font-size: 18px;
     }
@@ -577,9 +509,7 @@ textarea {
         width: 33%;
     }
 
-
     footer {
-
         flex-direction: column;
     }
 
@@ -613,13 +543,11 @@ textarea {
         margin-left: 0;
         margin-right: 30px;
         line-height: 45px;
-
     }
 
     #logo {
         margin-left: 30px;
     }
-
 
     #snapshot_section {
         display: flex;
@@ -630,7 +558,6 @@ textarea {
         width: 50vw;
         height: 50%;
     }
-
 
     .our_products {
         display: flex;
@@ -643,7 +570,6 @@ textarea {
         width: 50%;
         font-size: 3vw;
     }
-
 
     #address-block {
         font-size: 50%;
@@ -693,6 +619,5 @@ textarea {
     #menu {
         font-size: 15px;
     }
-
 
 }

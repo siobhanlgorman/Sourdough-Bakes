@@ -35,58 +35,61 @@
         </nav>
     </header>
 
-     <!-- background image with cover text title for contact page-->
+    <main>
+        <!-- background image with cover text title for contact page-->
 
-    <section id="contact-us-outer">
+        <section id="contact-us-outer">
 
-        <div id="contact-us">
-            <div id="dough-image">
+            <div id="contact-us">
+                <div id="dough-image">
+                </div>
+                <div id="contact-cover-text" class="covertext">
+                    <h2>Contact Us</h2>
+                </div>
             </div>
-            <div id="contact-cover-text" class="covertext">
-                <h2>Contact Us</h2>
+
+        </section>
+
+        <!-- Form goes here -->
+
+        <section class="form_section">
+
+            <fieldset>
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="contact_us_form"
+                    target="_blank">
+                    <h3>If you would like to reserve any of our bakes for collection or have any other queries please
+                        contact
+                        us:</h3>
+                    <label for="name">Name</label>
+
+                    <input id="name" type="text" name="name" class="text-input" required>
+
+                    <label for="email">Email</label>
+
+                    <input type="text" id="email" name="email_address" class="text-input" required>
+
+                    <label for="message">Your Message</label>
+
+
+                    <textarea id="message" name="message" placeholder="Write your message here" required></textarea>
+
+
+                    <input type="submit" class="submit-button" value="Send">
+
+
+
+                </form>
+            </fieldset>
+
+            <div class="back-to-top"><a href="contact_us.html" aria-label="back to top"><i
+                        class="fas fa-arrow-up"></i></a>
+
             </div>
-        </div>
 
-    </section>
+        </section>
 
-<!-- Form goes here -->
-
-    <section class="form_section">
-
-        <fieldset>
-            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact_us_form" target="_blank">
-                <h3>If you would like to reserve any of our bakes for collection or have any other queries please
-                    contact
-                    us:</h3>
-                <label for="name">Name</label>
-
-                <input id="name" type="text" name="name" class="text-input" required>
-
-                <label for="email">Email</label>
-
-                <input type="text" id="email" name="email_address" class="text-input" required>
-
-                <label for="message">Your Message</label>
-
-
-                <textarea id="message" name="message" placeholder="Write your message here" required></textarea>
-
-
-                <input type="submit" class="submit-button" value="Send">
-
-
-
-            </form>
-        </fieldset>
-
-        <div class="back-to-top"><a href="contact_us.html" aria-label="back to top"><i class="fas fa-arrow-up"></i></a>
-
-        </div>
-
-    </section>
-
-
-<!-- footer with address and social media -->
+    </main>
+    <!-- footer with address and social media -->
 
     <footer>
 
@@ -104,7 +107,7 @@
 
         </div>
 
-<!-- social media links here -->
+        <!-- social media links here -->
 
         <ul class="social-networks">
 
