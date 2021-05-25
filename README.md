@@ -386,7 +386,7 @@ From [Pixabay](https://pixabay.com/)
 3. granary2.jpg by Alexa from Pixabay 
 4. five_seed3.jpg by Couleur from Pixabay
 5. hero-image1.jpg by Aurelio Fox RJ from Pixabay
-6. loaves.jpg by Michelle Still Creates from Pixabay
+6. loaves.jpg by NickyPe from Pixabay
 7. mill_loaf4.jpg by Mark Croemers from Pixabay
 8. our_bread.jpg by Renee Olmsted from Pixabay
 9. our_pastries.jpg by Photowill from Pixabay
