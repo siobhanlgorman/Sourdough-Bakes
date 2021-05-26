@@ -6,7 +6,7 @@
 # Table Of Contents
 
 
-- [Milestone 1 Project: Sourdough Bakes](#milestone-1-project--sourdough-bakes)
+- [Sourdough Bakes](#milestone-1-project--sourdough-bakes)
 - [Introduction](#introduction)
 - [User Goals and Stories](#user-goals-and-stories)
   * [Website Owner Business Goals](#website-owner-business-goals)
@@ -47,7 +47,7 @@
 
 # Introduction
 
-This is a website for Sourdough Bakes, a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. The purpose of the website is to establish an online presence for the bakery with the goal of increasing the customer base and providing information for customers.
+This is a website for Sourdough Bakes, a fictional new bakery in Ennis, Co. Clare which specialises in baked goods made with sourdough leaven, using organic ingredients with no artificial additives. There are two ranges available bread and sweet bakes. The purpose of the website is to establish an online presence for the bakery as the main source of information for customers about the business.
 
 The website targets people who want to purchase authentic sourdough baked goods which use organic ingredients and are freshly baked and of high quality. The website showcases the products available to the user and provides the information necessary to make a purchase from the bakery.
 
@@ -95,7 +95,7 @@ As the website and business owner I want to
 
 The website is designed as four separate pages to enable the user to easily and precisely locate the information they are looking for without scrolling through a lot of information.  
 
-The priorities on the site are the information about the location and the produce so the address is visible on each page and prominent on the landing page. Also from each of the three information pages, the user can navigate directly to the produce page via clearly labelled links. 
+The priorities on the site are the information about the location and the produce. For this reason the address is visible on each page and prominent on the landing page. Also from each of the three information pages, the user can navigate directly to the produce page via clearly labelled links. 
 
 With the navigation links in the header and and back to top arrow featuring on each page users are easily able to navigate to the page they want next. The user flow differs according to the specific purpose of the visit to the site. For example users may want to check the produce or order produce or find out the location and opening hours or a combination of these. So users need to be able to access each page of information separately and easily. 
 
@@ -116,7 +116,7 @@ The initial wireframes from the design phase can be seen here. All design featur
 
 ## Fonts and Colour Scheme
 
-The fonts chosen were Poppins, sans serif, for the headings/logo and Lora for the body. They were chosen for the rounded and 'warmer' feel they inspire in the user. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #252525 in the text boxes overlaying the green background for better contrast and visibility against the green and the image.
+The fonts chosen were Poppins for the headings/logo and Lora for the body. They were chosen for the rounded and 'warmer' feel they inspire in the user. Sans Serif was chosen as the backup font. Charcoal #3a3a3a was chosen for the font colour as it is less harsh to the users' eyes than black. However it was replaced by black #252525 in the text boxes overlaying the green background for better contrast and visibility against the green and the image.
 
 ## Colours
     
@@ -268,7 +268,6 @@ This story is achieved by good quality images throughout the site and in particu
 
 ![alt-text](documentation/produce_images.png)
 
-
 As a general user of the website/customer I want to:
 
 * find out the location, opening hours and contact information 
@@ -345,11 +344,12 @@ The following links were all manually tested and passed:
 
 * Contact page 
   - The Contact Us form submits correctly to Code Institute form dump with name, email and message all recorded as submitted. 
+  - The form logs submitted in a separate tab
   - The form will not submit without all fields being completed. 
   - The message box can be enlarged by the user on all screens.
 
 
-## Deployment
+# Deployment
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 1. Log in to Github
@@ -363,21 +363,21 @@ The link to the live website is here:
 [Sourdough Bakes](https://siobhanlgorman.github.io/Sourdough-Bakes/)
  
 
-## Bugs
+# Bugs
 The large images on every page were not zoomed to the best position on small screens. This image position was changed in media queries
 
-It was difficult to get he navigation menu display to display responsively for all mobile phone screens. Although Chrome developer tools indicated that the menu was responsive it proved not to display correctly on some iPhones. Adjustments were made in media queries.
+It was difficult to get the navigation menu display to display responsively for all mobile phone screens. Although Chrome developer tools indicated that the menu was responsive it proved not to display correctly on some iPhones. Adjustments were made in media queries. 
 
-Sometimes what was displayed on the responsiveness testing in Chrome development tools was not exactly as appeared on actual devices so changes were always checked on actual devices for final approval.
+It is presumed that Chrome developer tools is in general not as accurate as the physical devices. In several cases what was displayed on the responsiveness testing in Chrome development tools was not exactly as appeared on actual devices so changes were always checked on actual devices for final approval.
 
 
-## Unfixed Bugs
+# Unfixed Bugs
 
 All bugs identified were fixed
 
-## Credits
+# Credits
 
-### Photos:
+## Photos:
 
 From [Pixabay](https://pixabay.com/)
 
@@ -401,7 +401,7 @@ From [Pixabay](https://pixabay.com/)
 18. sourdough.jpg by Tom Bock1 from Pixabay
 19. wholemeal6.jpg by Couleur from Pixabay
 
-### Other: 
+## Other: 
 
 hero-image with cover-text and zoom animation effect was based on the Code Institute love running walkthrough project
 
