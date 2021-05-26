@@ -176,14 +176,15 @@ All text is written by the author.
 
 ### Contact
 
- * The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store by sending a message in the form. The message box can be enlarged by the user if required, both by mouse and on a touchscreen.
+ * The contact page features a form for the user to enter name, email and a message, all required, with a send button. Users are encouraged to request an order for collection in store by sending a message in the form. The message box can be enlarged by the user if necessary, both with the mouse and on a touchscreen.
 
 ## Future Features
 
 * A payment facility for users to order and pay for their purchase
 * Links to recipes and links to more detailed information about sourdough
-* Checkbox for offer to subscribe to a newsletter for information about events and offers as the business expands
-* As the product range expands a direct link from the home page snapshot of products section to each individial section on the Our Bakes page would improve user experience
+* Checkbox to subscribe to a newsletter for information about events and offers as the business expands
+* As the product range expands a direct link from the home page snapshot of products section to each individual section on the Our Bakes page would improve user experience
+* An 'add to shopping basket' link from each item of produce would make an smooth user shopping experience.
 
 
 
@@ -209,7 +210,7 @@ HTML (Hypertext Markup Language) was used to design the basic website and CSS (C
 ## Validation
 
 * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
-* [CSS Validator](https://validator.w3.org/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code succesfully passed the validator with no errors.
+* [CSS Validator](https://validator.w3.org/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code successfully passed the validator with no errors.
 * Lighthouse in Chrome Developer Tools was used to check performance and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
 
 ## Responsiveness
@@ -217,7 +218,7 @@ HTML (Hypertext Markup Language) was used to design the basic website and CSS (C
 The website was tested on Chrome, Mozilla, Edge and Safari browsers with no problems found.
 
 The website was tested on numerous sized screens including Iphones 8 and X, Moto G8 plus, 15" laptop, 24" screen and Ipad and was found to respond as expected to all sizes.
-Chrome development tools was used throughout the design process to check responsiveness and breakpoints and adjustments were made.
+Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
 
 
 ## User Stories Testing
@@ -321,7 +322,7 @@ The following links were all manually tested and passed:
   - The menu links to each of the four pages of the site: Home, About, Our Bakes and Contact Us
   - The active page link underlines when the page active on the website
   - The mouse hover action turns green over the menu page options
-  - The navigation menu responds to decreasing screen size by moving under the logo and logo remains at the top
+  - The navigation menu responds to decreasing screen size by moving under the logo and the logo remains at the top
 
 
 * Footer:
@@ -355,10 +356,10 @@ The following links were all manually tested and passed:
 # Deployment
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
-1. Log in to Github
-2. Navigate to siobhanlgorman/sourdoughbakes in the list of repositories
-3. In the GitHub repository, navigate to the Settings tab
-4. In Settings scroll down to GitHub pages which opens in a new page.
+1. Log in to [Github](https://github.com/)
+2. Navigate to [siobhanlgorman/sourdoughbakes](https://github.com/siobhanlgorman/Sourdough-Bakes) in the list of repositories
+3. In the GitHub repository, navigate to the [Settings](https://github.com/siobhanlgorman/Sourdough-Bakes/settings) tab
+4. In Settings scroll down to [GitHub pages](https://github.com/siobhanlgorman/Sourdough-Bakes/settings/pages) which opens in a new page.
 5. From the source section drop-down menu, select the Master Branch
 6. Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
 
