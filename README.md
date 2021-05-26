@@ -17,7 +17,7 @@
     + [As a new user](#as-a-new-user)
 - [Design of the website](#design-of-the-website)
   * [Wireframes](#wireframes)
-  * [Fonts and Colour Scheme](#fonts-and-colour-scheme)
+  * [Fonts](#fonts)
   * [Colours](#colours)
   * [Images](#images)
   * [Text](#text)
@@ -168,15 +168,15 @@ All text is written by the author.
 
 ### About Page
 
-The About page has two sections, one with general information about the business and the other providing a short introduction to sourdough. The information is kept concise with short paragraphs so as not to overload the user with text and information but enough to answer initial questions and spark interest in the business and the products.
+ * The About page has two sections, one with general information about the business and the other providing a short introduction to sourdough. The information is kept concise with short paragraphs so as not to overload the user with text and information but enough to answer initial questions and spark interest in the business and the products.
 
 ### Our Bakes
 
-The Our Bakes page features a gallery of the range of products available in rows of three which collapse into two for a tablet and a column of one at mobile phone screen size. The page also features a direct 'contact us here' link which links to the form for users who would like further information on the products or to request an order. 
+ *  The Our Bakes page features a gallery of the range of products available in rows of three which collapse into two for a tablet and a column of one at mobile phone screen size. The page also features a direct 'contact us here' link which links to the form for users who would like further information on the products or to request an order. 
 
 ### Contact
 
-The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store by sending a message in the form. The message box can be enlarged by the user if required, both by mouse and on a touchscreen.
+ * The contact page features a form for user to enter name, email and a message, all required with a send button. Users are encouraged to request an order for collection in store by sending a message in the form. The message box can be enlarged by the user if required, both by mouse and on a touchscreen.
 
 ## Future Features
 
@@ -202,13 +202,14 @@ HTML (Hypertext Markup Language) was used to design the basic website and CSS (C
 
 [Google maps](https://www.google.com/maps) was used to provide a map link.
 
+[Picresize](https://picresize.com) was used to resize photos
 
 # Testing
 
 ## Validation
 
 * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
-* [CSS Validator](https://validator.w3.org/) was run several times during the project andpicked up small syntax errors which were corrected. At the time of submission the css code succesfully passed the validator with no errors.
+* [CSS Validator](https://validator.w3.org/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code succesfully passed the validator with no errors.
 * Lighthouse in Chrome Developer Tools was used to check performance and picked up some early contrast errors in colour choice so colours were adjusted accordingly. No other significant errors were found.
 
 ## Responsiveness
@@ -403,9 +404,9 @@ From [Pixabay](https://pixabay.com/)
 
 ## Other: 
 
-hero-image with cover-text and zoom animation effect was based on the Code Institute love running walkthrough project
+Hero-image with cover-text and zoom animation effect was based on the Code Institute love running walkthrough project
 
-flexbox approach from [freecodecamp](https://www.freecodecamp.org/) and [codercoder.com](https://coder-coder.com/display-divs-side-by-side/#grid-method)
+Flexbox approach from [freecodecamp](https://www.freecodecamp.org/) and [codercoder.com](https://coder-coder.com/display-divs-side-by-side/#grid-method)
 
 Contact form adapted from [w3 schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
