@@ -39,10 +39,10 @@
   * [Responsiveness](#responsiveness)
   * [User Stories Testing](#user-stories-testing)
   * [Manual Testing](#manual-testing)
-  * [Deployment](#deployment)
-  * [Bugs](#bugs)
-  * [Unfixed Bugs](#unfixed-bugs)
-  * [Credits](#credits)
+- [Deployment](#deployment)
+- [Bugs](#bugs)
+- [Unfixed Bugs](#unfixed-bugs)
+- [Credits](#credits)
 
 
 # Introduction
@@ -241,7 +241,9 @@ This is achieved by the creation of a contact form where users can submit their 
 
 
 As a general user I want to:
-* easily and intuitively navigate throughout the website, easily navigate between pages and return to home screen with one click. This is implemented with the intuitive navigation menu placed conventionally at the top right.
+* easily and intuitively navigate throughout the website, easily navigate between pages and return to home screen with one click. 
+
+This is implemented with the intuitive navigation menu placed conventionally at the top right.
 
 ![alt-text](documentation/navbar1.png)
 ![alt-text](documentation/navbar2.png)
@@ -265,7 +267,7 @@ This story is implemented by the responsiveness to different screen sizes
 
 * view clear images throughout the site especially of the produce
 
-This story is achieved by good quality images throughout the site and in particular the Our Bakes section. 
+This story is achieved by the use of good quality images throughout the site and in particular the Our Bakes section. 
 
 ![alt-text](documentation/produce_images.png)
 
@@ -303,7 +305,7 @@ As a new user I want to
 
 * find out what is different about the baked goods from this bakery compared to others
 
-This goal is satisfied by the About section: About Us and About Sourdough.
+This goal is achieved by the About section: About Us and About Sourdough.
 
 ![alt-text](documentation/about_section.png)
 
